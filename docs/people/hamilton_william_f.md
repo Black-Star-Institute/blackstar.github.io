@@ -14,9 +14,8 @@ William "Bill" F. Hamilton III is a UFO researcher. Senior programmer and analys
 
 ```mermaid
 timeline
-  title "William F. Hamilton III timeline"
+    title "William F. Hamilton III timeline"
 
-  section 2005
-    : "Project Aquarius: The Story of an Aquarian Scientist"
-    : "Reverse Engineering and Alien Astronautics (3rd Annual UFO Crash Retrieval Conference)"
+    2005 : "Project Aquarius: The Story of an Aquarian Scientist"
+         : "Reverse Engineering and Alien Astronautics (3rd Annual UFO Crash Retrieval Conference)"
 ```
