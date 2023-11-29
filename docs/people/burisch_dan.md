@@ -56,17 +56,19 @@ Purported leaked medical report of "in vitro experimentation, ...Extraterrestria
 # Timeline
 ```mermaid
 timeline
-    section 1964
-        February : Birth
-    section 1986
+    section 1960s
+        1964 : Feb. Born
+    section 1980s
         1986 : Recruited by Naval Intelligence
-        December 1986 : Graduated BA Psychology, Uni. of Las Vegas
-    1991 : Works with Chi'el'a (a P52 J-ROD)
-    1995 : Changed name to Dan B.C. Burisch
-    1998 : Eagles Disobey published
-    1999 : 1999 Disputed debt lawsuit
-    2002 : April 2002, Met Bill Hamilton
-         : July 2002, Bankruptcy filing
-         : September 2002, First interviewed by Hamilton
-    2004 : Retired from "black projects"
+             : Dec. Graduated BA Psychology, Uni. of Las Vegas
+    section 1990s
+        1991 : Works with Chi'el'a (a P52 J-ROD)
+        1995 : Changed name to Dan B.C. Burisch
+        1998 : Eagles Disobey published
+        1999 : Disputed debt lawsuit
+    section 2000s
+        2002 : Apr. Met Bill Hamilton
+             : Jul. Bankruptcy filing
+             : Sep. First interviewed by Hamilton
+        2004 : Retired from "black projects"
 ```
