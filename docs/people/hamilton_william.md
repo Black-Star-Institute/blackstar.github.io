@@ -1,6 +1,10 @@
 # William F. Hamilton III
 
+# About
+
 William "Bill" F. Hamilton III is a UFO researcher. Senior programmer and analyst at UCLA, 30 years in the Information Technology sector.
+
+[Exopedia biography](https://www.exopaedia.org/Hamilton%2C+William)
 
 # Media
 
