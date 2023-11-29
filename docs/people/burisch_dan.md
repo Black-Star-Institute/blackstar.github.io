@@ -2,6 +2,28 @@
 
 Dr. Danny B. Catselas Burisch, formerly Dan B. Crain. Born 1964-02-02. Gifted child. Purported whistleblower from Area 51 and claims to be a member of Majestic-12.
 
+# Timeline
+```mermaid
+timeline
+    section 1960s
+        1964 : Feb. Born
+    section 1980s
+        1986 : Recruited by Naval Intelligence
+             : Dec. Graduated BA Psychology, Uni. of Las Vegas
+        198? : Contacted G. Knapp
+    section 1990s
+        1990 : Jul. Marries Deborah Burisch
+        1991 : Works with Chi'el'a (a P52 J-ROD)
+        1995 : Changed name to Dan B.C. Burisch
+        1998 : Eagles Disobey published
+        1999 : Disputed debt lawsuit
+    section 2000s
+        2002 : Apr. Met Bill Hamilton
+             : Jul. Bankruptcy filing
+             : Sep. First interviewed by Hamilton
+        2004 : Jun. 8th Retired from "black projects"
+```
+
 # Media
 
 - William F. Hamliton III
@@ -16,6 +38,10 @@ Dr. Danny B. Catselas Burisch, formerly Dan B. Crain. Born 1964-02-02. Gifted ch
 - Jeremy Rys (Alien Scientist) [Dan Burisch (Dan Crain)](https://alienscientist.com/burisch.html)
 - Book: C. Ronald Garner *Alien Disclosure at Area 51*
 - Project Camelot [Dan Burisch Summary](https://projectcamelotportal.com/2008/01/04/dan-burisch-summary/)
+
+## Website
+
+- [Eagles Disobey](https://web.archive.org/web/20040607235819/http://scorpius.spaceports.com/~bemused/eaglesdisobey/index.html) (2004 Internet Archive)
 
 # Education
 
@@ -57,29 +83,3 @@ Purported leaked medical report of "in vitro experimentation, ...Extraterrestria
 # Eagles Disobey
 
 *Eagles disobey: The case for Inca City, Mars* ISBN-13: 9780964809024
-
-# Website
-
-- [Eagles Disobey](https://web.archive.org/web/20040607235819/http://scorpius.spaceports.com/~bemused/eaglesdisobey/index.html) (2004 Internet Archive)
-
-# Timeline
-```mermaid
-timeline
-    section 1960s
-        1964 : Feb. Born
-    section 1980s
-        1986 : Recruited by Naval Intelligence
-             : Dec. Graduated BA Psychology, Uni. of Las Vegas
-        198? : Contacted G. Knapp
-    section 1990s
-        1990 : Jul. Marries Deborah Burisch
-        1991 : Works with Chi'el'a (a P52 J-ROD)
-        1995 : Changed name to Dan B.C. Burisch
-        1998 : Eagles Disobey published
-        1999 : Disputed debt lawsuit
-    section 2000s
-        2002 : Apr. Met Bill Hamilton
-             : Jul. Bankruptcy filing
-             : Sep. First interviewed by Hamilton
-        2004 : Jun. 8th Retired from "black projects"
-```
