@@ -56,9 +56,11 @@ Purported leaked medical report of "in vitro experimentation, ...Extraterrestria
 # Timeline
 ```mermaid
 timeline
-    1964 : Born to Crain, Danny B. born February 2, 1964 to John Dennis and Doreen Aglaie (LaPierre)
-    1986 : Recruited by Naval Intelligence
-         : Graduated BA Psychology, Uni. of Las Vegas
+    section 1964
+        February : Birth
+    section 1986
+        1986 : Recruited by Naval Intelligence
+        December 1986 : Graduated BA Psychology, Uni. of Las Vegas
     1991 : Works with Chi'el'a (a P52 J-ROD)
     1995 : Changed name to Dan B.C. Burisch
     1998 : Eagles Disobey published
