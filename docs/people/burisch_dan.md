@@ -1,10 +1,14 @@
 # Dan Burisch
 
-Dr. Dan B. Burisch, formerly Dan B. Crain.
+Dr. Danny B. Burisch, formerly Dan B. Crain. Born 1964-02-02.
 
 - William F. Hamliton III
     * [Dr. Dan Burisch Biographical Info](https://web.archive.org/web/20021102115616/http://www.skywatch-research.org/BurischBio.htm)
     * [The Last Letter from Dr. Dan B.C. Burisch](https://web.archive.org/web/20021102115745/http://www.skywatch-research.org/message.htm)
+- Linda Moulton Howe, *Earthfiles*
+    * [The Chapter 7 Bankruptcy of Dan and Deborah Burisch](https://www.earthfiles.com/2004/07/13/the-chapter-7-bankruptcy-of-dan-and-deborah-burisch/), 2004
+    * [Field Trip with Microbiologist Dan Burisch to Frenchman Mountain, Nevada](https://www.earthfiles.com/2004/06/12/part-1-field-trip-with-microbiologist-dan-burisch-to-frenchman-mountain-nevada/), June 2004
+    * [Whistleblower Microbiologist Dan Burisch Interview](https://www.earthfiles.com/2004/05/19/part-1-whistleblower-microbiologist-dan-burisch-interview-on-june-7-2003/), June 2003
 - Jeremy Rys (Alien Scientist) [Dan Burisch (Dan Crain)](https://alienscientist.com/burisch.html)
 
 # Stolen valour claims
