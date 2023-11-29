@@ -9,7 +9,7 @@ William "Bill" F. Hamilton III is a UFO researcher. Senior programmer and analys
 - Video: [Bill Hamilton, Project Aquarius, and the Dan Burisch Story](https://www.youtube.com/watch?v=q6N1z6PshHQ), MUFON conference 2005-09-15
 - Correspondence: Bill Hamilton [Mystery Of Dr. Dan Burisch - Beginning To End](https://rense.com/general42/mssy.htm)
 - Article: *Reverse Engineering and Alien Astronautics*, [3rd Annual UFO Crash Retrieval Conference Proceedings](https://archive.org/details/crash-retrieval-conference-proceedings-3rd-annual-2005/mode/1up), 2005
-- Page: Skywatch International [UFO page](https://web.archive.org/web/20021011031159/http://skywatch-research.org/ufo.html)
+- Page: Skywatch International [UFO page](https://web.archive.org/web/20021011031159/http://skywatch-research.org/ufo.html) (defunct since 2004)
 
 # Timeline
 
