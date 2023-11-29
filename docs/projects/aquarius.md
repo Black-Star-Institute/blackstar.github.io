@@ -7,5 +7,6 @@ Formerly Project GLEEM
 # Timeline
 
 ```mermaid
-1966 : Project Gleem renamed Prohect Aquarius
+timeline
+    1966 : Project Gleem renamed Prohect Aquarius
 ```
