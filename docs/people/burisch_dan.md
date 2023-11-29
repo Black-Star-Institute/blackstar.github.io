@@ -10,6 +10,8 @@ timeline
     section 1980s
         1986 : Recruited by Naval Intelligence
              : Dec. Graduated BA Psychology, Uni. of Las Vegas
+        1988 : MS Biology, St. Patrick's Seminary
+        1989 : PhD Microbiology, SUNY
         198? : Contacted G. Knapp
     section 1990s
         1990 : Jul. Marries Deborah Burisch
@@ -30,7 +32,7 @@ timeline
     * [Dr. Dan Burisch Biographical Info](https://web.archive.org/web/20021102115616/http://www.skywatch-research.org/BurischBio.htm)
     * [The Last Letter from Dr. Dan B.C. Burisch](https://web.archive.org/web/20021102115745/http://www.skywatch-research.org/message.htm)
     * [Photos of Dan Burisch](https://web.archive.org/web/20021208174141/http://www.skywatch-research.org/gallery.html)
-- Linda Moulton Howe, *Earthfiles*
+- Linda Moulton Howe, *Earthfiles* [#dan-burisch](https://www.earthfiles.com/tag/dan-burisch/)
     * [Whistleblower Microbiologist Dan Burisch Interview](https://www.earthfiles.com/2004/05/19/part-1-whistleblower-microbiologist-dan-burisch-interview-on-june-7-2003/), June 2003
     * [Whistleblower Microbiologist Speaks Out About Alleged “Alien” Named J-Rod](https://www.earthfiles.com/2003/09/15/updated-part-1-whistleblower-microbiologist-speaks-out-about-alleged-alien-named-j-rod/), September 2003
     * [Field Trip with Microbiologist Dan Burisch to Frenchman Mountain, Nevada](https://www.earthfiles.com/2004/06/12/part-1-field-trip-with-microbiologist-dan-burisch-to-frenchman-mountain-nevada/), June 2004
