@@ -7,6 +7,7 @@ Dr. Danny B. Catselas Burisch, formerly Dan B. Crain. Born 1964-02-02. Gifted ch
 - William F. Hamliton III
     * [Dr. Dan Burisch Biographical Info](https://web.archive.org/web/20021102115616/http://www.skywatch-research.org/BurischBio.htm)
     * [The Last Letter from Dr. Dan B.C. Burisch](https://web.archive.org/web/20021102115745/http://www.skywatch-research.org/message.htm)
+    * [Photos of Dan Burisch](https://web.archive.org/web/20021208174141/http://www.skywatch-research.org/gallery.html)
 - Linda Moulton Howe, *Earthfiles*
     * [Whistleblower Microbiologist Dan Burisch Interview](https://www.earthfiles.com/2004/05/19/part-1-whistleblower-microbiologist-dan-burisch-interview-on-june-7-2003/), June 2003
     * [Whistleblower Microbiologist Speaks Out About Alleged “Alien” Named J-Rod](https://www.earthfiles.com/2003/09/15/updated-part-1-whistleblower-microbiologist-speaks-out-about-alleged-alien-named-j-rod/), September 2003
