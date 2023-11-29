@@ -1,6 +1,6 @@
 # Dan Burisch
 
-Dr. Danny B. Catselas Burisch, formerly Dan B. Crain. Born 1964-02-02. Gifted child. Purported whistleblower from Area 51 and claims to be a member of Majestic-12.
+Dr. Danny B. Catselas Burisch, formerly Dan B. Crain. Born 1964-02-02. Gifted child. Purported whistleblower from Area 51 and claims to be a member of Majestic-12 (MJ-12.)
 
 # Timeline
 ```mermaid
@@ -25,6 +25,10 @@ timeline
              : Sep. First interviewed by Hamilton
         2004 : Jun. 8th Retired from "black projects"
 ```
+
+# MJ-12
+
+Held the position of "MJ-9" (i.e. the 9th of twelve roles.)
 
 # Media
 
