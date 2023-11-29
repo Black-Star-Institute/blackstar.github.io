@@ -1,6 +1,6 @@
 # Dan Burisch
 
-Dr. Danny B. Burisch, formerly Dan B. Crain. Born 1964-02-02. Gifted child. Purported whistleblower from Area 51 and claims to be a member of Majestic-12.
+Dr. Danny B. Catselas Burisch, formerly Dan B. Crain. Born 1964-02-02. Gifted child. Purported whistleblower from Area 51 and claims to be a member of Majestic-12.
 
 # Media
 
@@ -34,9 +34,16 @@ Moulton Howe
 
 # Stolen valour claims
 
+Moulton Howe
+> In April 2002, Dan Burisch told Bill he was a microbiologist who had worked for the U. S. government’s MJ-12 and MAJI Committee since recruitment in 1986 by Naval Intelligence while he was completing his Bachelor’s Degrees in Psychology at the University of Las Vegas in Nevada. There are no military records for Danny B Crain or Danny B Catselas Burisch and Dan explained he was never inducted in any military unit. But in his secret work as a government microbiologist, he said he would sometimes be asked to wear military uniforms for formal meetings.
+
 According to [Jeremy Rys](https://alienscientist.com/burisch.html):
 
 > Vietnam Veteran and actual former Area 51 Employee Edgar Fouche worked with a few ex Navy Seals to file "Stolen Valor" charges against Dan "Burisch" Crain, subsequently prompting Dan to remove nearly 80% of his videos and other online materials from the web to avoid being charged and court martialed. 
+
+# Q-94-109A document
+
+Purported leaked medical report of "in vitro experimentation, ...Extraterrestrial Biological Entity (EBE) A.K. 'AQ-J-Rod.'" as part of a secret project known as AQ-J-Rod.
 
 # Eagles Disobey
 
@@ -50,8 +57,12 @@ According to [Jeremy Rys](https://alienscientist.com/burisch.html):
 ```mermaid
 timeline
     1964 : Born to Crain, Danny B. born February 2, 1964 to John Dennis and Doreen Aglaie (LaPierre)
+    1986 : Recruited by Naval Intelligence
+         : Graduated BA Psychology, Uni. of Las Vegas
     1991 : Works with Chi'el'a (a P52 J-ROD)
     1995 : Changed name to Dan B.C. Burisch
+    1998 : Eagles Disobey published
+    1999 : 1999 Disputed debt lawsuit
     2002 : April 2002, Met Bill Hamilton
          : July 2002, Bankruptcy filing
          : September 2002, First interviewed by Hamilton
