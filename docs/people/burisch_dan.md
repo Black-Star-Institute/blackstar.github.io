@@ -5,6 +5,13 @@ Dr. Dan B. Burisch, formerly Dan B. Crain.
 - William F. Hamliton III
     * [Dr. Dan Burisch Biographical Info](https://web.archive.org/web/20021102115616/http://www.skywatch-research.org/BurischBio.htm)
     * [The Last Letter from Dr. Dan B.C. Burisch](https://web.archive.org/web/20021102115745/http://www.skywatch-research.org/message.htm)
+- Jeremy Rhys (Alien Scientist) [Dan Burisch (Dan Crain)](https://alienscientist.com/burisch.html)
+
+# Eagles Disobey
+
+This is the title of a book and website.
+
+- [Eagles Disobey](https://web.archive.org/web/20040607235819/http://scorpius.spaceports.com/~bemused/eaglesdisobey/index.html) (2004 Internet Archive)
 
 # Timeline
 ```mermaid
