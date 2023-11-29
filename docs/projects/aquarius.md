@@ -12,6 +12,10 @@ timeline
     1966 : Project Gleem renamed Prohect Aquarius
 ```
 
+# Links
+
+- William Hamilton [Project Aquarius and the Story of Dr. Dan Burisch](https://web.archive.org/web/20061006012118/https://www.astrosciences.info/Aquarius.htm), October 2005
+
 # Leaked Aquarius document
 
 - [Executive Correspondence](https://archive.org/details/project-aquarius-11-pages/page/n5/mode/2up)
