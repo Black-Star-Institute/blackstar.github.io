@@ -2,7 +2,7 @@
 
 # About
 
-William "Bill" F. Hamilton III (?&endash;2014) is an IT worker and UFO researcher. Associated with Michael Salla's Expolitics Institute. [Exopedia biography](https://www.exopaedia.org/Hamilton%2C+William)
+William "Bill" F. Hamilton III (?&endash;2014) is an IT worker and UFO researcher who investigated the [Burisch](burisch_dan.md) case. Associated with Michael Salla's Expolitics Institute. [Exopedia biography](https://www.exopaedia.org/Hamilton%2C+William)
 
 # Skywatch International
 
@@ -19,6 +19,7 @@ A UFO research organisation.
 - Page: Skywatch International [UFO page](https://web.archive.org/web/20021011031159/http://skywatch-research.org/ufo.html) (defunct since 2004)
 - Video: [Bill Hamilton - UFOs and Government investigations](https://www.youtube.com/watch?v=KNF61xAuzO8) c.1999
 - NOUFORS [Bill Hamilton profile](http://noufors.com/Bill_Hamilton.htm)
+- [AstroSciences research network](https://web.archive.org/web/20051031195254/https://www.astrosciences.info/) c.2005
 
 # Timeline
 
