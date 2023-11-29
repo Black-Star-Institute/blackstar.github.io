@@ -1,6 +1,9 @@
 # Project Lotus
 
-- [Bill Hamilton](../people/hamilton_william.md), [Majestic transcript](https://web.archive.org/web/20021102113248/http://www.skywatch-research.org/transcript.htm), 2002-02-03
+[Anon2023PDF](https://archive.org/details/anon_pdf_from_markdown)
+> Burisch also claims a Project Lotus is attempting to utilize ET technology to manipulate human DNA and RNA.
+
+[Bill Hamilton](../people/hamilton_william.md), [Majestic transcript](https://web.archive.org/web/20021102113248/http://www.skywatch-research.org/transcript.htm), 2002-02-03
 
 # Ganesh particle
 
