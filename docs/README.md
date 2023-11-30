@@ -1,4 +1,4 @@
-Research notes
+# Research notes
 
 This repository contains open-source, collaborative research into the future human (extratempestrial) hypothesis.
 
