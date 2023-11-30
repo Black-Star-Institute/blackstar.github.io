@@ -5,6 +5,12 @@ This repository contains open-source, collaborative research into the UFO phenom
 
 # Sources
 
+Major references, collected into themes.
+
+## Crash retrievals
+
+- Richard Geldreich [Crash Retrieval Leak Timeline](https://medium.com/@richgel99/crash-retrieval-leak-timeline-4b75b8ef529a)
+
 ## Time travel hypothesis
 
 Resources about the future human (extratempestrial) hypothesis.
