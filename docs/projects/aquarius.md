@@ -22,6 +22,10 @@ timeline
     ? : Ended?
 ```
 
+# Whistleblowers
+
+The main source is [Dan Burisch](../people/burisch_dan.md). Burisch and McDowell claim to have recorded correspondence with other program insiders, some of whom were assassinated for their actions.
+
 # History
 
 # Founding
