@@ -76,7 +76,7 @@ Why would a scientific worker be appointed to this high position that was former
 
 ## Interviews
 
-- Paola Harris [Interview with Micro-biologist Dr. Dan Burisch ](https://paolaharris.com/home-page/interview-with-micro-biologist-dr-dan-burisch) c.2007, from *UFOs: How Does One Speak to a Ball of Light?* ISBN 9781470024901
+- Paola Harris [Interview with Micro-biologist Dr. Dan Burisch ](https://paolaharris.com/home-page/interview-with-micro-biologist-dr-dan-burisch) in Las Vegas, 2006, from *UFOs: How Does One Speak to a Ball of Light?* ISBN 9781470024901
 - solder.ath.cx [Dan Burisch Interviews](https://web.archive.org/web/20050901064721/http://solder.ath.cx/Burisch/interviews/interviews.html)
 
 ## Website
