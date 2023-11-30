@@ -11,6 +11,8 @@ This is possibly something to do with panspermia and the origin of life.
 
 > The Ganesh Particle, under the correct electrical impulse levels, was observed being liberated from the crystalline rock.  It is currently believed that the Ganesh Particle is a dense collection of electromagnetic waves, containing information, and floating in a river of less dense electromagnetism.
 
+- Burisch [Santuary of the Golden Petal](https://web.archive.org/web/20050905234453/http://solder.ath.cx/Burisch/billh/0302san-a.html) 2003-04-22
+
 # Frenchman Mountain
 
 Chi'el'a told Burisch the location where he could find *Ganesh particle(s)* at [Frenchman mountain](https://maps.app.goo.gl/Uqd9vDmfUZKXHXHR9) near Las Vegas, USA.
