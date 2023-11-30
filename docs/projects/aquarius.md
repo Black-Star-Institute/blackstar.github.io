@@ -11,7 +11,9 @@ Project Aquarius was an umbrella term for various secret projects involving rese
 
 ```mermaid
 timeline
+    ? : Established
     1966 : Project Gleem renamed Prohect Aquarius
+    ? : Ended?
 ```
 
 # Links
@@ -20,5 +22,5 @@ timeline
 
 # Leaked Aquarius document
 
-- [Executive Correspondence](https://archive.org/details/project-aquarius-11-pages/page/n5/mode/2up)
+- Unknown source, [Executive Correspondence](https://archive.org/details/project-aquarius-11-pages/page/n5/mode/2up) sent to Linda Moulthon Howe.
 - Linda Moulton Howe 2023-06-06 [Project Aquarius – TOP SECRET MJ12 ORCON – Funded by CIA to Study UFO/IAC Sightings and Contacts with Alien Life Forms](https://www.earthfiles.com/2022/06/06/project-aquarius-top-secret-mj12-orcon-funded-by-cia-to-study-ufo-iac-sightings-and-contacts-with-alien-life-forms/)
