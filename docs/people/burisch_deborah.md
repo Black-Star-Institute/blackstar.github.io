@@ -2,6 +2,8 @@
 
 Deborah "Debbie" Kay(?) Burisch
 
+[Documents](./burisch_deborah/) including her white pages.
+
 Married [Dan Burisch (Crain)](burisch_dan.md) in the 1990s.
 
 What happened to her since? Has she ever gone on the record?
