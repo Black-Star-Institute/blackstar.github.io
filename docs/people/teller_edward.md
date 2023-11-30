@@ -1,6 +1,6 @@
 # Edward Teller
 
-Edward Teller (1908&endash;2003) physicist who is known colloquially as "the father of the hydrogen bomb".
+Edward Teller (1908&ndash;2003) physicist who is known colloquially as "the father of the hydrogen bomb".
 
 According to David Grusch, the atomic bomb projects were bound up with the UFO cover-up.
 
