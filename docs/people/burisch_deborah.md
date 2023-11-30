@@ -20,6 +20,9 @@ better keep an eye on his private life
 
 # Cover job
 
+[Moulton Howe](https://www.earthfiles.com/2004/07/13/the-chapter-7-bankruptcy-of-dan-and-deborah-burisch/)
+> Bill Hamilton also understood that Deborah Burisch worked for the U. S. government as Dan’s government “handler,” a person assigned to monitor Burisch’s microbiology work, while maintaining her “cover job” as PBX Operator at the Mirage casino.
+
 Casino worker 1990&ndash;2004.
 
 [Linda Moulton Howe](https://www.earthfiles.com/2004/07/13/the-chapter-7-bankruptcy-of-dan-and-deborah-burisch/)
