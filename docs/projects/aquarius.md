@@ -26,7 +26,7 @@ timeline
 
 # Founding
 
-According to the leaked 1970s Aquarius executive briefing, Gleem was founded as the "actual" reporting system, for which Project Blue Book (established 1952) presumably was the cover operation.
+According to the leaked 197(7?) Aquarius executive briefing, Gleem was founded as the "actual" reporting system, for which Project Blue Book (established 1952) presumably was the cover operation.
 
 > In 1953, Project Gleem was initiated by order of President Eisenhower, who believed the UFOs presented a threat to the national security of the United States.
 > Project Gleem, which became Project Aquarius in 1966, was a parallel reporting system for UFO sightings and incidents.
