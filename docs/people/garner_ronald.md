@@ -20,7 +20,7 @@ Side and Public Relations Director for the Association for Past Life Research
 & Therapy. He has also been an Organizer for various UFO Conferences &
 Events.
 
-When did Garner investigate Burisch? Did Garner talk to him personally?
+When did Garner investigate Burisch? Did Garner talk to him personally? He seems to have spoken to Burisch's mother?
 
 # Alien photo hoax
 
