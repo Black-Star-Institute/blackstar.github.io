@@ -47,9 +47,11 @@ These are sources for this timeline:
 - Linda Moulton Howe, *Earthfiles* [The Chapter 7 Bankruptcy of Dan and Deborah Burisch](https://www.earthfiles.com/2004/07/13/the-chapter-7-bankruptcy-of-dan-and-deborah-burisch/) 2004-07-13
 - [Bill Hamilton](hamilton_william.md) [Dr. Dan Burisch timeline](https://web.archive.org/web/20030804013141/www.skywatch-research.org/ufo/Dans_timeline.htm)
 
-# MJ-12
+# Majestic Twelve
 
-Held the position of "MJ-9" (i.e. the 9th of twelve roles.)
+He claims to have held the position of "MJ-9" (i.e. the 9th of twelve roles) in [Majestic Twelve](../organisations/mj12.md).
+
+Why would a scientific worker be appointed to this high position that was formerly held by senior scientists, generals, and politicians?
 
 # Media
 
