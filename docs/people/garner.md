@@ -18,6 +18,10 @@ Side and Public Relations Director for the Association for Past Life Research
 & Therapy. He has also been an Organizer for various UFO Conferences &
 Events.
 
+# Alien photo hoax
+
+Garner appears to be implicated in publicising a hoaxed photo, according to Royce Myers, III [Alleged Photo of J-Rod Alien is a Special Effects Hoax](http://www.ufowatchdog.com/jrod.htm), who cites an email from Bill Hamilton.
+
 # Books
 
 - *Alien Disclosure at Area 51: Dr. Dan Burisch Reveals the Truth About ETs, UFOs and MJ-12* 2008
