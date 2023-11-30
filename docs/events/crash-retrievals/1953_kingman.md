@@ -2,9 +2,13 @@
 
 North-west of Kingman Arizona, USA on May 20th 1953.
 
-Initially investigated by Raymond E. Fowler for NICAP.
+Initially investigated by Raymond E. Fowler for NICAP and published in June 1973.
 
 Purportedly recovered by [Project Pounce](../../projects/pounce.md) [Schratt 2010].
+
+# Witnesses
+
+The main witness is Arthur G.Stansel (pseudonym Fritz Werner.)
 
 [R. Geldreich](https://medium.com/@richgel99/crash-retrieval-leak-timeline-4b75b8ef529a):
 
@@ -26,3 +30,4 @@ According to aerospace engineer [Spaulding](https://rense.com/general13/historic
 - Richard Geldreich [1953 Kingman AZ Crash Retrieval](https://medium.com/@richgel99/1953-kingman-az-crash-retrieval-6eac40d724c7) 2023-11-01 on the witness testimony of Arthur Glenn (or Glen) Stansel Jr.
 - Tom Owens - [Kingman UFO Witness Arthur G. Stansel (Fritz)](https://www.youtube.com/watch?v=5AxDCR3O75w)
 - Eyes on Cinema - [Eyewitness Arthur G. Stancil & researcher Raymond Fowler on the 1953 UFO crash in Kingman, Arizona](https://www.youtube.com/watch?v=L4CvjWEB6C8)
+- Think AboutIts [1953: Kingman Arizona UFO crash](https://www.thinkaboutitdocs.com/1953-may-20-kingman-arizona-ufo-crash/)https://www.thinkaboutitdocs.com/1953-may-20-kingman-arizona-ufo-crash/
