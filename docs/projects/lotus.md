@@ -7,12 +7,17 @@
 
 # Ganesh particle
 
+This is possibly something to do with panspermia and the origin of life.
+
+> The Ganesh Particle, under the correct electrical impulse levels, was observed being liberated from the crystalline rock.  It is currently believed that the Ganesh Particle is a dense collection of electromagnetic waves, containing information, and floating in a river of less dense electromagnetism.
+
+# Frenchman Mountain
+
 Chi'el'a told Burisch the location where he could find *Ganesh particle(s)*.
 
 [Howe](https://www.earthfiles.com/2004/06/14/part-2-the-danger-of-time-loops-and-a-wormhole-on-frenchman-mountain-nevada/)
 > [Burisch] hypothesized that perhaps one of the reasons the life-programming ganesh particles were at the Frenchman Mountain site was because he and his colleagues had also discovered an Einstein-Rosen Bridge (ERB) wormhole there on the mountain which might have originally transported the ganesh particles from Somewhere Else in the universe.
 
-# Frenchman Mountain
 ## Earth vibrations
 
 [Eagles Unchained correspondence](https://web.archive.org/web/20060925004722/http://solder.ath.cx/Burisch/eagles/vol1.html) refers to:
