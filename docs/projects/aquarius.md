@@ -28,7 +28,7 @@ The main source is [Dan Burisch](../people/burisch_dan.md). Burisch and McDowell
 
 # History
 
-# Founding
+## Founding
 
 According to the leaked 197(7?) Aquarius executive briefing, Gleem was founded as the "actual" reporting system, for which Project Blue Book (established 1952) presumably was the cover operation.
 
@@ -36,6 +36,8 @@ According to the leaked 197(7?) Aquarius executive briefing, Gleem was founded a
 > Project Gleem, which became Project Aquarius in 1966, was a parallel reporting system for UFO sightings and incidents.
 > Reports collected under Project Aquarius were considered actual sightings of Alien aircrtafts or contaacts with Alien Life Forms.
 > Most reports were made by reliable mlitary and defense departmenta civilian personnel.
+
+This is somewhat backed up by the *Pentacle Memorandum* found by Jacques Vallee in 1967 that confirmed that such a parallel UFO reporting project existed at the Battelle Memorial Institute. Vallee revealed the existence of the memo in his journals, published under the title *Forbidden Science* in 1992. The document confirms that the Robertson Panel (1953) was manipulated in the interests of the cover-up.
 
 # Links
 
