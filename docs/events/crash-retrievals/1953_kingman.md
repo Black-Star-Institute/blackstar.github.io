@@ -2,6 +2,8 @@
 
 North-west of Kingman Arizona, USA on May 20th 1953.
 
+Initially investigated by Raymond E. Fowler for NICAP.
+
 Purportedly recovered by [Project Pounce](../../projects/pounce.md) [Schratt 2010].
 
 [R. Geldreich](https://medium.com/@richgel99/crash-retrieval-leak-timeline-4b75b8ef529a):
