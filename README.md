@@ -2,7 +2,7 @@
 
 This repository contains research notes regarding the UFO phenomenon and the purported cover up.
 
-To get started, browse the [docs] folder.
+To get started, browse the [docs](./docs/) folder.
 
 # Get involved
 
