@@ -100,6 +100,10 @@ him.
 
 How and why did they prevent anyone from recognising him? Is this plausable?
 
+He worked at the same time.
+> All of this was being conducted while Dan continued to hold down his parole and probation job with Las Vegas County
+[Garner 2008]
+
 # Bankruptcy filing
 
 Linda Moulton Howe, *Earthfiles* [The Chapter 7 Bankruptcy of Dan and Deborah Burisch](https://www.earthfiles.com/2004/07/13/the-chapter-7-bankruptcy-of-dan-and-deborah-burisch/), 2004
