@@ -1,5 +1,7 @@
 # C. Ronald Garner
 
+Garner is a UFO researcher.
+
 His self-written biography 
 
 > Ron Garner has been a UFO/Paranormal Researcher and Documentary
@@ -17,6 +19,8 @@ paranormal topics. Ron was the Line Producer for the TV program The Other
 Side and Public Relations Director for the Association for Past Life Research
 & Therapy. He has also been an Organizer for various UFO Conferences &
 Events.
+
+When did Garner investigate Burisch? Did Garner talk to him personally?
 
 # Alien photo hoax
 
