@@ -3,6 +3,7 @@
 Dr. Danny B. Catselas Burisch, formerly Dan B. Crain. Born 1964-02-02. Gifted child. Purported whistleblower from Area 51 and claims to be a member of Majestic-12 (MJ-12.)
 
 # Timeline
+
 ```mermaid
 timeline
     section 1960s
@@ -10,12 +11,21 @@ timeline
     section 1980s
         1986 : Recruited by Naval Intelligence
              : Dec. Graduated BA Psychology, Uni. of Las Vegas
+             : Secret clearance
+        1987 : Top Secret clearance
+             : Began SUNY PhD
+             : Biosphere
         1988 : MS Biology, St. Patrick's Seminary
+             : Probate officer, New York
         1989 : PhD Microbiology, SUNY
+             : Q clearance
         198? : Contacted G. Knapp
     section 1990s
         1990 : Jul. Marries Deborah Burisch
+             : Area 51 security clearance
         1991 : Works with Chi'el'a (a P52 J-ROD)
+             : Iraq, Operation Desert Storm
+        1994 : Q-94-109A report
         1995 : Changed name to Dan B.C. Burisch
         1998 : Eagles Disobey published
         1999 : Disputed debt lawsuit
@@ -25,6 +35,14 @@ timeline
              : Sep. First interviewed by Hamilton
         2004 : Jun. 8th Retired from "black projects"
 ```
+
+## Sources
+
+These are sources for this timeline:
+
+- [Eagles Disobey timeline](https://web.archive.org/web/20020811102135/http://www.eaglesdisobey.com/timeline2.htm)
+- Linda Moulton Howe, *Earthfiles* [The Chapter 7 Bankruptcy of Dan and Deborah Burisch](https://www.earthfiles.com/2004/07/13/the-chapter-7-bankruptcy-of-dan-and-deborah-burisch/) 2004-07-13
+- [Bill Hamilton](hamilton_william.md) [Dr. Dan Burisch timeline](https://web.archive.org/web/20030804013141/www.skywatch-research.org/ufo/Dans_timeline.htm)
 
 # MJ-12
 
@@ -39,7 +57,8 @@ Held the position of "MJ-9" (i.e. the 9th of twelve roles.)
 - Linda Moulton Howe, *Earthfiles* [#dan-burisch](https://www.earthfiles.com/tag/dan-burisch/)
     * [Whistleblower Microbiologist Dan Burisch Interview](https://www.earthfiles.com/2004/05/19/part-1-whistleblower-microbiologist-dan-burisch-interview-on-june-7-2003/), June 2003
     * [Whistleblower Microbiologist Speaks Out About Alleged “Alien” Named J-Rod](https://www.earthfiles.com/2003/09/15/updated-part-1-whistleblower-microbiologist-speaks-out-about-alleged-alien-named-j-rod/), September 2003
-    * [Field Trip with Microbiologist Dan Burisch to Frenchman Mountain, Nevada](https://www.earthfiles.com/2004/06/12/part-1-field-trip-with-microbiologist-dan-burisch-to-frenchman-mountain-nevada/), June 2004
+    * [Field Trip with Microbiologist Dan Burisch to Frenchman Mountain, Nevada](https://www.earthfiles.com/2004/06/12/part-1-field-trip-with-microbiologist-dan-burisch-to-frenchman-mountain-nevada/), 2004-06-12
+    * [The Chapter 7 Bankruptcy of Dan and Deborah Burisch](https://www.earthfiles.com/2004/07/13/the-chapter-7-bankruptcy-of-dan-and-deborah-burisch/) 2004-07-13
 - Open Minds Radio [Michael Schratt discusses Dan Burisch](https://www.youtube.com/watch?v=x_koB91A6O0)
 - Jeremy Rys (Alien Scientist) [Dan Burisch (Dan Crain)](https://alienscientist.com/burisch.html)
 - Book: C. Ronald Garner *Alien Disclosure at Area 51*
