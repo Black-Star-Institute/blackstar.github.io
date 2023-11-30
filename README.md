@@ -1,1 +1,3 @@
-# blackstar.github.io
+# Black Star Institute
+
+Contact qedjoe(at)proton.me
