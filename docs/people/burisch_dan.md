@@ -66,7 +66,7 @@ Held the position of "MJ-9" (i.e. the 9th of twelve roles.)
 - Book: C. Ronald Garner *Alien Disclosure at Area 51*
 - Project Camelot [Dan Burisch Summary](https://projectcamelotportal.com/2008/01/04/dan-burisch-summary/)
 - StealthSkater Archives Introduction to [Dr. Dan Burisch](http://stealthskater.com/Burisch.htm)
-- Eagles Unchained correspondence [Volume 1](https://web.archive.org/web/20040613182003/http://solder.ath.cx/Burisch/eagles/vol1.html), [Volume 2](https://web.archive.org/web/20040702174420/http://solder.ath.cx/Burisch/eagles/vol2.html)
+- Eagles Unchained correspondence, [volume 1](https://web.archive.org/web/20040613182003/http://solder.ath.cx/Burisch/eagles/vol1.html), [volume 2](https://web.archive.org/web/20040702174420/http://solder.ath.cx/Burisch/eagles/vol2.html), [volume 3](https://web.archive.org/web/20040703235107/http://solder.ath.cx/Burisch/eagles/vol3.html), [volume 4](https://web.archive.org/web/20050824190914/http://solder.ath.cx/Burisch/eagles/vol4.html), [volume 5](https://web.archive.org/web/20050826223618/http://solder.ath.cx/Burisch/eagles/vol5.html), [volume 6](https://web.archive.org/web/20050824234220/http://solder.ath.cx/Burisch/eagles/vol6.html)
 
 ## Website
 
