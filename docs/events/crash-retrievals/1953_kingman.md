@@ -25,6 +25,15 @@ According to aerospace engineer [Spaulding](https://rense.com/general13/historic
 > He said the retired officers claimed they got a glimpse of dead aliens who were in both cases about
 > four feet tall with silverish complexions and wearing silver outfits that "seemed fused to the body from the heat." 
 
+Leonard Stringfield also investigated [this event](https://www.thinkaboutitdocs.com/1953-may-20-kingman-arizona-ufo-crash/), or a similar crash:
+
+> Curiously, Leonard Stringfield, who re-opened the case for crash-retrievals, mentioned testimony he had gotten from a Naval Intelligence
+> Officer who had seen bodies from a crash that occurred in the Arizona desert in 1953. He viewed the bodies at Wright-Patterson when the
+> crates arrived at night aboard a DC-7. There were five crates in all, three of which contained little humanoids about four feet tall.
+> Their heads were hairless and disproportionately large with skin that looked brown under the hangar lights.
+> They were wearing tight-fitting dark suits.
+> It has been suggested by some researchers that these bodies could have come from the crash mentioned by Stancil.
+
 # Sources
 
 - Richard Geldreich [1953 Kingman AZ Crash Retrieval](https://medium.com/@richgel99/1953-kingman-az-crash-retrieval-6eac40d724c7) 2023-11-01 on the witness testimony of Arthur Glenn (or Glen) Stansel Jr.
