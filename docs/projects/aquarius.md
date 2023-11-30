@@ -30,6 +30,8 @@ According to the 1970s Aquarius executive briefing, Gleem was founded as the "ac
 
 > In 1953, Project Gleem was initiated by order of President Eisenhower, who believed the UFOs presented a threat to the national security of the United States.
 > Project Gleem, which became Project Aquarius in 1966, was a parallel reporting system for UFO sightings and incidents.
+> Reports collected under Project Aquarius were considered actual sightings of Alien aircrtafts or contaacts with Alien Life Forms.
+> Most reports were made by reliable mlitary and defense departmenta civilian personnel.
 
 # Links
 
