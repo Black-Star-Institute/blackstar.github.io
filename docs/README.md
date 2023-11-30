@@ -5,7 +5,7 @@ This repository contains open-source, collaborative research into the UFO phenom
 
 # Sources
 
-## Future human research
+## Future human hypothesis
 
 Resources about the future human (extratempestrial) hypothesis.
 
