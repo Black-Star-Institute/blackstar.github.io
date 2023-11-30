@@ -4,6 +4,10 @@ Formerly Project GLEEM.
 
 Project Aquarius was an umbrella term for various secret projects involving research into UFOnauts at Area 51.
 
+Burisch [claims](https://web.archive.org/web/20210925062617/https://paolaharris.com/home-page/interview-with-micro-biologist-dr-dan-burisch) that the project was named after the home of the P-52 J-RODs.
+
+> Aquarius Constellation: Gleise 876C. That is the origin of the name for Project Aquarius.
+
 [Anon2023PDF](https://archive.org/details/anon_pdf_from_markdown)
 > Project Aquarius investigating an extraterrestrial entity "J-Rod" and its neuropathy
 
