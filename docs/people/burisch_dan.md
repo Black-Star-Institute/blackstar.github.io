@@ -70,6 +70,7 @@ Held the position of "MJ-9" (i.e. the 9th of twelve roles.)
 - Eagles Unchained correspondence, [volume 1](https://web.archive.org/web/20040613182003/http://solder.ath.cx/Burisch/eagles/vol1.html), [volume 2](https://web.archive.org/web/20040702174420/http://solder.ath.cx/Burisch/eagles/vol2.html), [volume 3](https://web.archive.org/web/20040703235107/http://solder.ath.cx/Burisch/eagles/vol3.html), [volume 4](https://web.archive.org/web/20050824190914/http://solder.ath.cx/Burisch/eagles/vol4.html), [volume 5](https://web.archive.org/web/20050826223618/http://solder.ath.cx/Burisch/eagles/vol5.html), [volume 6](https://web.archive.org/web/20050824234220/http://solder.ath.cx/Burisch/eagles/vol6.html)
 - solder.ath.cx [Dan Burisch archives](https://web.archive.org/web/20050909044253/http://solder.ath.cx/Burisch/)
 - Video: Garner [Burisch endorsement statements](https://web.archive.org/web/20140602091059/http://www.area51thetruth.com/endorsements.html)
+- Website: White Rabbit [Dr Dan Burisch](https://web.archive.org/web/20040608011637/http://scorpius.spaceports.com/~bemused/Burisch.html)
 
 ## Interviews
 
