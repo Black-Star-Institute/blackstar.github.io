@@ -58,6 +58,14 @@ According to [Marcia McDowell](https://projectcamelotportal.com/2008/01/04/dan-b
 
 Why would a scientific worker be appointed to this high position that was formerly held by senior scientists, generals, and politicians?
 
+> Dr. Burisch sat as a pro-tem member of the Majestic 12, as MJ-9, and was finally assigned as H-1-Maj,
+> the designated person to disclose the “extraterrestrial human lineage (time travel) information”.
+> He completed his final orders in September, 2006, and is retired from service.
+
+Why did they first punish him for speaking out, and then order him to disclose?
+
+What he did do to fulfill these orders in September 2006?
+
 # Media
 
 - William F. Hamliton III
