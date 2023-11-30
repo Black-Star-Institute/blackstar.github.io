@@ -4,6 +4,8 @@ Dr. Danny B. Catselas Burisch, formerly Dan B. Crain. Born 1964-02-02. Gifted ch
 
 # Timeline
 
+This timeline shows the key events in Burisch's life and career.
+
 ```mermaid
 timeline
     section 1960s
