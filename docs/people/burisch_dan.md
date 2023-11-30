@@ -30,7 +30,7 @@ timeline
              : Iraq, Operation Desert Storm
         1994 : Q-94-109A report
         1995 : Changed name to Dan B.C. Burisch
-        1998 : Eagles Disobey published
+        1996 : Eagles Disobey published
         1999 : Disputed debt lawsuit
     section 2000s
         2002 : Apr. Met Bill Hamilton
@@ -115,6 +115,11 @@ Where is his PhD certificate now?
 >
 > Then, later that same year, Dan’s bride, Deborah Burisch, visited her new in-laws and asked to "borrow" Dan’s diploma, telling them she wanted to make a copy. She never returned it, and to this day nobody, with the possible exception of Deborah herself, knows where the certificate is.
 
+Apparently his PhD records were removed as part of Burisch's punishment for publishing *Eagles Disobey* in 1996. [Garner 2008]
+
+> As a part of his punishment, his academic and other records were quietly erased wherever the government could find them up until 1996 (Dan’s business partner contacted SUNY and
+received confirmation of his PhD). In that same year, SUNY was still acknowledging Dan’s PhD, but even though other documents corroborate Dan’s educational record, SUNY has since fallen silent to inquiries.
+
 # Bankruptcy filing
 
 Linda Moulton Howe, *Earthfiles* [The Chapter 7 Bankruptcy of Dan and Deborah Burisch](https://www.earthfiles.com/2004/07/13/the-chapter-7-bankruptcy-of-dan-and-deborah-burisch/), 2004
@@ -141,4 +146,7 @@ Purported leaked medical report of "in vitro experimentation, ...Extraterrestria
 
 # Eagles Disobey
 
-*Eagles disobey: The case for Inca City, Mars* ISBN-13: 9780964809024
+*Eagles disobey: The case for Inca City, Mars* ISBN-13: 9780964809024 1996
+
+[Garner 2008]
+> In 1996, Dan published a book called *Eagles Disobey* about his observations of anomalies on the surface of Mars. However, this was done without approval of his Black Ops overseers. He was severely punished for this transgression and in the process was given a permanent reminder that his employers were actually his owners.
