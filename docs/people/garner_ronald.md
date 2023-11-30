@@ -24,7 +24,7 @@ Events.
 
 When did Garner investigate Burisch? Did Garner talk to him personally? He seems to have spoken to Burisch's mother?
 
-Garner says:
+[Garner says](https://web.archive.org/web/20140602091059/http://www.area51thetruth.com/endorsements.html):
 > ​In 2008, Stargate Productions producer Ron Garner introduced the Dan Burisch story to Michael Schratt (3D artist) of Open Minds Magazine. Subsequently, Michael invited Dr. Burisch to Open Minds Magazine offices where Dr. Burisch described the inner layout of Area 51 S-4. Michael then used his 3D artistic  talents to render the most secret part of the most secret base in the world Area 51 S-4 in 3D clarity  for public scrutiny and comment.      
 
 # Alien photo hoax
