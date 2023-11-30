@@ -19,11 +19,12 @@ timeline
              : Biosphere
         1988 : MS Biology, St. Patrick's Seminary
              : Probate officer, New York
-        1989 : PhD Microbiology, SUNY
+        1989 : Defends PhD Microbiology, SUNY
              : Q clearance
         198? : Contacted G. Knapp
     section 1990s
-        1990 : Jul. Marries Deborah Burisch
+        1990 : Recieved PhD certificate
+             : Jul. Marries Deborah Burisch
              : Area 51 security clearance
         1991 : Works with Chi'el'a (a P52 J-ROD)
              : Iraq, Operation Desert Storm
@@ -111,6 +112,8 @@ Can his professors be located and interviewed?
 Where is his PhD certificate now?
 
 > when his PhD arrived at his parent's apartment in Las Vegas in early 1990, his father immediately had it framed and hung it on the wall
+>
+> Then, later that same year, Dan’s bride, Deborah Burisch, visited her new in-laws and asked to "borrow" Dan’s diploma, telling them she wanted to make a copy. She never returned it, and to this day nobody, with the possible exception of Deborah herself, knows where the certificate is.
 
 # Bankruptcy filing
 
