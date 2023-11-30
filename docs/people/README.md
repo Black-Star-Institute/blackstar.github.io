@@ -1,6 +1,7 @@
-UFO investigators:
+UFO researchers:
 - [William F. Hamilton III](hamilton_william.md)
 - Linda Moulton Howe
+- [Ryan Musgrave-Evans](musgrave-evans_ryan.md)
 
 Relationship diagram:
 ```mermaid
