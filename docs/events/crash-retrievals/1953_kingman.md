@@ -13,7 +13,7 @@ The specific number of living and dead pilots varies between reports.
 The main witness is Arthur G.Stansel (pseudonym Fritz Werner) [who says](https://www.youtube.com/watch?v=L4CvjWEB6C8):
 
 > He had seen two bodies inside this tent. Two alien, queer-looking bodies.
-> It was brown, leather skin. Silver cap on without a bill like a skill cap.
+> It was brown, leathery skin. Silver cap on without a bill like a skill cap.
 
 [R. Geldreich](https://medium.com/@richgel99/crash-retrieval-leak-timeline-4b75b8ef529a):
 
