@@ -6,6 +6,9 @@ UFO researchers:
 Relationship diagram:
 ```mermaid
 graph TD
-    McConnell[Mike McConnell] --> dan
-    dan[Dan Burisch] --> B[Marcia McDowell]
+    MJ12[Majestic 12] --> Majority
+    Majority[Committee of the Majority] --> Burisch
+    MJ12 --> McConnell
+    McConnell[Mike McConnell] --> Burisch
+    Burisch[Dan Burisch] --> McDowell[Marcia McDowell]
 ```
