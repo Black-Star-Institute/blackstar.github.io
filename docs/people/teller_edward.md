@@ -18,6 +18,11 @@ Sources:
 - https://www.reaganfoundation.org/media/103818/061185.pdf
 - https://www.reaganfoundation.org/ronald-reagan/white-house-diaries/diary-entry-06111985/
 
+*Need To Know—UFOs, The Military and Intelligence* by Timothy Good, 2006, page 336:
+> Los Alamos National Laboratory contact... There were problems with the materials (and)
+propulsion system. Edward Teller had supposedly identified the (alien) power
+system as far back as 1957...
+
 # Teller and Burisch
 
 Garner 2008
@@ -25,7 +30,4 @@ Garner 2008
 arranged for him to attend special courses at State University of New York
 (SUNY) while at the same time completing his PhD.
 
-*Need To Know—UFOs, The Military and Intelligence* by Timothy Good, 2006, page 336:
-> Los Alamos National Laboratory contact... There were problems with the materials (and)
-propulsion system. Edward Teller had supposedly identified the (alien) power
-system as far back as 1957...
+Of course, Burisch may have fabricated this based on Lazar's story.
