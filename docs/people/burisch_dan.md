@@ -100,11 +100,17 @@ him.
 
 How and why did they prevent anyone from recognising him? Is this plausable?
 
-He worked at the same time.
+He worked at the same time. [Garner 2008]
 
 > All of this was being conducted while Dan continued to hold down his parole and probation job with Las Vegas County
 
-[Garner 2008]
+> his professors at SUNY were flown out to Las Vegas to challenge his dissertation and administer his final examination in 1989, Dan was ill and near collapse
+
+Can his professors be located and interviewed?
+
+Where is his PhD certificate now?
+
+> when his PhD arrived at his parent's apartment in Las Vegas in early 1990, his father immediately had it framed and hung it on the wall
 
 # Bankruptcy filing
 
