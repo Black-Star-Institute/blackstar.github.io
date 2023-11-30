@@ -2,6 +2,8 @@
 
 Garner is a UFO researcher.
 
+[area51thetruth.com](https://web.archive.org/web/20150215021538/http://www.area51thetruth.com/)
+
 His self-written biography 
 
 > Ron Garner has been a UFO/Paranormal Researcher and Documentary
