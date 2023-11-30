@@ -6,4 +6,4 @@ From the [Project Aquarius](aquarius.md) executive briefing (no provenance):
 
 IAC may stand for "Identified Alien Craft"
 
-This project purportedly retrieved the [1953 Kingman, AZ crash](../events/crash-retreievals/1953_kingman.md).
+This project purportedly retrieved the [1953 Kingman, AZ crash](../events/crash-retrievals/1953_kingman.md).
