@@ -6,6 +6,8 @@ Initially investigated by Raymond E. Fowler for NICAP and published in June 1973
 
 Purportedly recovered by [Project Pounce](../../projects/pounce.md) [Schratt 2010].
 
+The specific number of living and dead pilots varies between reports.
+
 # Witnesses
 
 The main witness is Arthur G.Stansel (pseudonym Fritz Werner.)
@@ -33,6 +35,13 @@ Leonard Stringfield also investigated [this event](https://www.thinkaboutitdocs.
 > Their heads were hairless and disproportionately large with skin that looked brown under the hangar lights.
 > They were wearing tight-fitting dark suits.
 > It has been suggested by some researchers that these bodies could have come from the crash mentioned by Stancil.
+
+Bill Uhouse claimed that several beings were recovered:
+
+> Engineer Bill Uhouse claims there was a crash of an Ebans (Ebens) aerial craft near Kingman, Arizona in 1953 and that four entities survived.
+> That would have been six years after the more famous Roswell crashes and retrievals of “interplanetary craft of unknown origin.”
+> In Kingman, according to Uhouse, two disabled Ebens and two more that were in good condition were retrieved by U. S.government units
+> specially trained for retrieval missions.
 
 # Sources
 
