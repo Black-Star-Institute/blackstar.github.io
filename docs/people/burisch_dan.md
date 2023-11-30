@@ -44,10 +44,12 @@ Held the position of "MJ-9" (i.e. the 9th of twelve roles.)
 - Jeremy Rys (Alien Scientist) [Dan Burisch (Dan Crain)](https://alienscientist.com/burisch.html)
 - Book: C. Ronald Garner *Alien Disclosure at Area 51*
 - Project Camelot [Dan Burisch Summary](https://projectcamelotportal.com/2008/01/04/dan-burisch-summary/)
+-  StealthSkater Archives Introduction to [Dr. Dan Burisch](http://stealthskater.com/Burisch.htm)
 
 ## Website
 
 - [Eagles Disobey](https://web.archive.org/web/20040607235819/http://scorpius.spaceports.com/~bemused/eaglesdisobey/index.html) (2004 Internet Archive)
+- [easglesdisobey.com](https://web.archive.org/web/20020524113959/http://www.eaglesdisobey.com/) 2002-05-24
 
 # Education
 
