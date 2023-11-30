@@ -49,3 +49,18 @@ OUTSIDE OFFICIAL INTELLIGENCE CHANNELS AND WITH RESTRICTED ACCESS TO 'MJ TWELVE.
 > AFOSI have informed me that the retyped document is a fabrication, yet the existence of Project Aquarius has now been confirmed
 > by the National Security Agency. It is still classified Top Secret, and details therefore remain exempt from disclosure (see Chapter
 > 17). There is as yet no official confirmation of the existence of MJ-12, however.
+
+Timothy Good *Above Top Secret*, page 425
+
+> In a leaked document purporting to originate with the US Air Force Office
+> of Special Investigations (AFOSI) — its authenticity denied to me by both
+> AFOSI and NASA — there is an intriguing reference to “Project Aquarius.”
+> Another leaked memo mentions “Project Sigma,” allegedly initiated in
+> 1954 to establish communication with aliens. “This Project met with
+> positive success,” the spurious-looking document states, and goes on to
+> describe how a USAF intelligence officer "met two aliens at a pre-
+> arranged location in the desert of New Mexico
+> ...this project is continuing at an Air Force base in New Mexico." The same document lists
+> "Project Snowbird" (referred to in Chapter 12), allegedly established in
+> 1972; its mission was to test fly a recovered alien aircraft. The project
+> is said to be continuing in Nevada.
