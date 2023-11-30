@@ -10,6 +10,14 @@ Purportedly recovered by [Project Pounce](../../projects/pounce.md) [Schratt 201
 > “Mr. Spaulding said he has sworn statements from retired Air Force colonels that at least two U.F.O.’s have crashed landed and have been recovered by the Air Force.
 > One crash, he said, was in Mexico in 1948 and the other was near Kingman, Ariz., in 1953.”
 
+According to aerospace engineer Spaulding:
+
+> Mr. Spaulding said he has sworn statements from retired Air Force colonels that at least two U.F.O.'s have crashed landed and have been recovered by the Air Force.
+> 
+> One crash, he said, was in Mexico in 1948 and the other was near Kingman, Ariz., in 1953.
+> He said the retired officers claimed they got a glimpse of dead aliens who were in both cases about
+> four feet tall with silverish complexions and wearing silver outfits that "seemed fused to the body from the heat." 
+
 # Sources
 
 - Richard Geldreich [1953 Kingman AZ Crash Retrieval](https://medium.com/@richgel99/1953-kingman-az-crash-retrieval-6eac40d724c7) 2023-11-01 on the witness testimony of Arthur Glenn (or Glen) Stansel Jr.
