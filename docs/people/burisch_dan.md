@@ -51,6 +51,11 @@ These are sources for this timeline:
 
 He claims to have held the position of "MJ-9" (i.e. the 9th of twelve roles) in [Majestic Twelve](../organisations/mj12.md).
 
+According to [Marcia McDowell](https://projectcamelotportal.com/2008/01/04/dan-burisch-summary/):
+
+> Dr. Burisch was a Senior Operative/Scientist, responsible first to the Committee of the Majority and the Majestic 12 (1986-2003),
+> then only to the Majestic 12 (2003-2005), before it was adjourned (October 12, 2005).
+
 Why would a scientific worker be appointed to this high position that was formerly held by senior scientists, generals, and politicians?
 
 # Media
@@ -137,7 +142,15 @@ Moulton Howe
 > Marcia McDowell said, “Dan has not worked for the U. S. government like people think of a government scientist. There are no paychecks involved, no 401-K’s and matching funds and retirement. There is nothing like that. He works for Majestic-12 (MJ).
 > They take care of him. But they don’t micro-manage the messiness of lives. Chapter 7 and other bankruptcy options can be used as tools by MJ without leaving a paper trail that incriminates them.
 
-# Stolen valour claims
+# Operation Desert Storm in Iraq
+
+[McDowell claims](https://projectcamelotportal.com/2008/01/04/dan-burisch-summary/):
+> During the 1991 Gulf War, he was assigned to a Black/Ops Unit, and was deployed into the International Coalition’s Zone of Operations,
+> for the purpose of counteracting a rogue military unit’s intended application of unauthorized biological warfare agents against the Iraqi Army.
+
+## Stolen valour claims
+
+Dan given a miltary-equivalent rank as part of his scientist role in MJ-12.
 
 Moulton Howe
 > In April 2002, Dan Burisch told Bill he was a microbiologist who had worked for the U. S. government’s MJ-12 and MAJI Committee since recruitment in 1986 by Naval Intelligence while he was completing his Bachelor’s Degrees in Psychology at the University of Las Vegas in Nevada. There are no military records for Danny B Crain or Danny B Catselas Burisch and Dan explained he was never inducted in any military unit. But in his secret work as a government microbiologist, he said he would sometimes be asked to wear military uniforms for formal meetings.
@@ -145,6 +158,8 @@ Moulton Howe
 According to [Jeremy Rys](https://alienscientist.com/burisch.html):
 
 > Vietnam Veteran and actual former Area 51 Employee Edgar Fouche worked with a few ex Navy Seals to file "Stolen Valor" charges against Dan "Burisch" Crain, subsequently prompting Dan to remove nearly 80% of his videos and other online materials from the web to avoid being charged and court martialed. 
+
+Rys and Fouche are not reputable sources or principled people.
 
 # Q-94-109A document
 
