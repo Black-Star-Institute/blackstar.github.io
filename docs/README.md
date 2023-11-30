@@ -19,3 +19,4 @@ Resources about the future human (extratempestrial) hypothesis.
 - [Jack Sarfatti](people/sarfatti_jack.md)
 - [Michael Masters](people/masters_michael.md)
 - [Ryan Musgrave-Evans](people/musgrave-evans_ryan.md)
+- Franc Milburn
