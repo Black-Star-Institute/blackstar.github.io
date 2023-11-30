@@ -15,6 +15,8 @@ The main witness is Arthur G.Stansel (pseudonym Fritz Werner) [who says](https:/
 > He had seen two bodies inside this tent. Two alien, queer-looking bodies.
 > It was brown, leathery skin. Silver cap on without a bill like a skill cap.
 
+This description of the skin matches that of the P-52 J-ROD/Varghina beings.
+
 [R. Geldreich](https://medium.com/@richgel99/crash-retrieval-leak-timeline-4b75b8ef529a):
 
 > The main witness to the Kingman AZ area C/R in the literature was **Arthur Glenn (or Glen) Stansel Jr**.,
