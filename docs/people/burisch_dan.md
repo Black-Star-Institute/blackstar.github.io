@@ -13,6 +13,7 @@ timeline
     section 1980s
         1986 : Recruited by Naval Intelligence
              : Dec. Graduated BA Psychology, Uni. of Las Vegas
+             : Inducted into Majestic 12
              : Secret clearance
         1987 : Top Secret clearance
              : Began SUNY PhD
@@ -91,6 +92,7 @@ What he did do to fulfill these orders in September 2006?
 
 - Paola Harris [Interview with Micro-biologist Dr. Dan Burisch ](https://paolaharris.com/home-page/interview-with-micro-biologist-dr-dan-burisch) in Las Vegas, 2006, from *UFOs: How Does One Speak to a Ball of Light?* ISBN 9781470024901
 - solder.ath.cx [Dan Burisch Interviews](https://web.archive.org/web/20050901064721/http://solder.ath.cx/Burisch/interviews/interviews.html)
+- Project Camelot [Dan Burisch interviews](https://projectcamelot.org/dan_burisch.html)
 
 ## Website
 
@@ -100,6 +102,10 @@ What he did do to fulfill these orders in September 2006?
 # Education
 
 Burisch was a gifted child who excelled in school and was precocious with his extracurricular activities.
+
+McDowell [claims](https://projectcamelotportal.com/2008/01/04/dan-burisch-summary/) he was involved in the [Microscopical Society of Southern California](https://web.archive.org/web/20080608182113/https://www.msscweb.org/Public/history.htm).
+
+Worked with [Dr. John Bunyan](https://web.archive.org/web/20080705213849/ar.utmb.edu/ar/Library/BlockerHistoryofMedicineCollection/MicroscopeCollection/tabid/240/Default.aspx) (1907&ndash;1986)
 
 ## Undergraduate
 
@@ -138,6 +144,10 @@ Apparently his PhD records were removed as part of Burisch's punishment for publ
 
 > As a part of his punishment, his academic and other records were quietly erased wherever the government could find them up until 1996 (Dan’s business partner contacted SUNY and
 received confirmation of his PhD). In that same year, SUNY was still acknowledging Dan’s PhD, but even though other documents corroborate Dan’s educational record, SUNY has since fallen silent to inquiries.
+
+# Abduction
+
+When he was a child, he was abducted outside his family home and had his consciousness replaced/merged with that of the dead son of an MJ-12 member.
 
 # Bankruptcy filing
 
