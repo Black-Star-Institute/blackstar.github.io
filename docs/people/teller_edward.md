@@ -7,7 +7,7 @@ According to David Grusch, the atomic bomb projects were bound up with the UFO c
 What evidence exists to link Teller with UFOs specifically?
 
 Garner 2008
-> The famous Dr. Edward Teller* took a personal interest in Dan’s case and
+> The famous Dr. Edward Teller took a personal interest in Dan's case and
 arranged for him to attend special courses at State University of New York
 (SUNY) while at the same time completing his PhD.
 
