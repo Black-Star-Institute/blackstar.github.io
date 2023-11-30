@@ -92,6 +92,14 @@ Burisch claimed that he studied at university but didn't graduate normally.
 [Howe](https://www.earthfiles.com/2004/07/13/the-chapter-7-bankruptcy-of-dan-and-deborah-burisch/)
 > In 1986, Dan Burisch said he was approached by the U. S. Navy to work for them and that the government paid for him as Danny B Crain to go on with his Ph.D. work in Microbiology and Molecular Genetics at State University of New York (SUNY) ­ Stonybrook. According to Dan, no one can have access to his SUNY records because the Majestic-12 demands secrecy in the interest of classified projects and national security. Bill Hamilton says a man who did not want to speak on the record remembered Danny Crain in biology courses at SUNY. But television reporter, George Knapp, says he first received correspondence from Danny Crain back in the late 1980s about computer systems functioning through biological neuronal tissue, but has never been able to find a professor or anyone at SUNY that remembers a Ph.D. student named Danny Crain.
 
+[Garner 2008]
+> For special work designated by the Majestic 12 group, Dan was flown back
+to NY on a military plane under constant close escort by two security officers
+who assured that the other students were prevented from interacting with
+him.
+
+How and why did they prevent anyone from recognising him? Is this plausable?
+
 # Bankruptcy filing
 
 Linda Moulton Howe, *Earthfiles* [The Chapter 7 Bankruptcy of Dan and Deborah Burisch](https://www.earthfiles.com/2004/07/13/the-chapter-7-bankruptcy-of-dan-and-deborah-burisch/), 2004
