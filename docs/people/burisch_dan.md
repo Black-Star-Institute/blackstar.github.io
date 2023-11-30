@@ -1,6 +1,6 @@
 # Dan Burisch
 
-Dr. Danny B. Catselas Burisch, formerly Dan B. Crain. Born 1964-02-02. Gifted child. Purported whistleblower from Area 51 and claims to be a member of Majestic-12 (MJ-12.)
+Dr. Danny B. Catselas Burisch, formerly Dan B. Crain. Born 1964-02-02. Purported whistleblower from Area 51 and claims to be a member of Majestic-12 (MJ-12.)
 
 # Timeline
 
@@ -82,6 +82,8 @@ Held the position of "MJ-9" (i.e. the 9th of twelve roles.)
 - [easglesdisobey.com](https://web.archive.org/web/20020524113959/http://www.eaglesdisobey.com/) 2002-05-24
 
 # Education
+
+Burisch was a gifted child who excelled in school and was precocious with his extracurricular activities.
 
 ## Undergraduate
 
