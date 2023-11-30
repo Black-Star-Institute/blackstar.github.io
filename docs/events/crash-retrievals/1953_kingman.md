@@ -4,7 +4,7 @@ North-west of Kingman Arizona, USA on May 20th 1953.
 
 Recovered by Project Pounce.
 
-[[Geldreich]](https://medium.com/@richgel99/crash-retrieval-leak-timeline-4b75b8ef529a) via [Frank Warren](https://rense.com/general13/historic_ciasurvel.htm).
+[R. Geldreich](https://medium.com/@richgel99/crash-retrieval-leak-timeline-4b75b8ef529a) via [Frank Warren](https://rense.com/general13/historic_ciasurvel.htm).
 
 > Jan. 1979: NY Times — “CIA Papers Detail UFO Surveillance”.
 > “Mr. Spaulding said he has sworn statements from retired Air Force colonels that at least two U.F.O.’s have crashed landed and have been recovered by the Air Force.
