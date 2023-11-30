@@ -105,7 +105,7 @@ Burisch was a gifted child who excelled in school and was precocious with his ex
 
 McDowell [claims](https://projectcamelotportal.com/2008/01/04/dan-burisch-summary/) he was involved in the [Microscopical Society of Southern California](https://web.archive.org/web/20080608182113/https://www.msscweb.org/Public/history.htm).
 
-Worked with [Dr. John Bunyan](https://web.archive.org/web/20080705213849/ar.utmb.edu/ar/Library/BlockerHistoryofMedicineCollection/MicroscopeCollection/tabid/240/Default.aspx) (1907&ndash;1986)
+Claimed he worked with microscope enthusiast [Dr. John Bunyan](https://web.archive.org/web/20080705213849/ar.utmb.edu/ar/Library/BlockerHistoryofMedicineCollection/MicroscopeCollection/tabid/240/Default.aspx) (1907&ndash;1986).
 
 ## Undergraduate
 
