@@ -101,7 +101,9 @@ him.
 How and why did they prevent anyone from recognising him? Is this plausable?
 
 He worked at the same time.
+
 > All of this was being conducted while Dan continued to hold down his parole and probation job with Las Vegas County
+
 [Garner 2008]
 
 # Bankruptcy filing
