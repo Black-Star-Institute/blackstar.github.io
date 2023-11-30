@@ -1,9 +1,11 @@
 # Project Aquarius
 
-Formerly Project GLEEM
+Formerly Project GLEEM.
+
+Project Aquarius was an umbrella term for various secret projects involving research into UFOnauts at Area 51.
 
 [Anon2023PDF](https://archive.org/details/anon_pdf_from_markdown)
-> Project Aquarius investigating an extraterrestrial entity “J-Rod” and its neuropathy
+> Project Aquarius investigating an extraterrestrial entity "J-Rod" and its neuropathy
 
 # Timeline
 
