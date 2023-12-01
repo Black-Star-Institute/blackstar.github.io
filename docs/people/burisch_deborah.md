@@ -2,7 +2,7 @@
 
 <img align="right" src="burisch_deborah/Yearbook_profile_photo_1979.jpg" alt="Debbie Burisch 1979 yearbook photo">
 
-Deborah "Debbie" Kay Burisch AKA Deborah Kay Mottley was born <time datetime="1961-06-30">30th June 1961</time> [source?].
+Deborah "Debbie" Kay Burisch was born <time datetime="1961-06-30">30th June 1961</time> [source?].
 
 Deborah was [married](burisch_deborah/burisch_marriage_certificate_1990.jpg) to [Dan Burisch](burisch_dan.md) (then named Crain) in Las Vegas, Nevada, USA on 1990-07-17. In addition to the marriage certificate, this is confirmed in the Nevada Marriage Index for 1956&ndash;2005.
 
@@ -15,19 +15,13 @@ She has lived in:
 - Las Vegas, Nevada (multiple addresses 1994&ndash;2008, 2011&ndash;2016, 2004&ndash;2016)
 - Green Valley North, Henderson, Nevada (2014&ndash;2020)
 
-## Deborah Kay Mottley
-
-Is this the same person?
-
-Deborah Kay Mottley was [born <time datetime="1961-06-30">30th June 1961</time>](https://www.ancestry.com/discoveryui-content/view/3286172:9277) in Roanoke, Virginia, USA.
-
-- Birth record [Deborah Kay Mottley](https://www.ancestry.com/discoveryui-content/view/3286172:9277) in the Virginia, U.S., Birth Records, 1912-2015, Delayed Birth Records, 1721-1920. Certificate Number 1961047691. [Virginia Department of Health; Richmond, Virginia; Virginia, Births, 1864-2015]
-
 # Family
 
 Descendent of [James Forrestal](forrestal_james.md), United States Secretary of Defense and purported [Majestic 12](../organisations/mj12.md) founding member.
 
 ## Family tree
+
+DRAFT - Mottley link may be erroneous
 
 ```mermaid
 graph TD;
