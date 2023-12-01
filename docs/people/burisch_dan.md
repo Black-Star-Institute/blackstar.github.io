@@ -61,8 +61,8 @@ Father:
 ```mermaid
 graph TD;
   john[John Dennis Crain] --> dan
-  dodie[Dorren Aglaie LaPierre] --> dan
-  dan[Dan Burisch] --> tiffany[Tiffany Burisch]
+  dodie[Dorren Aglaie LaPierre (Crain)] --> dan
+  dan[Dan B. Crain (Burisch)] --> tiffany[Tiffany Burisch]
   deborah[Deborah Burisch] --> tiffany
   
 ```
