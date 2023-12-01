@@ -4,7 +4,7 @@ Deborah "Debbie" Kay Burisch.
 
 [Documents](./burisch_deborah/) including her white pages.
 
-[Married](burisch_dan/burisch_marriage_certificate_1990.jpg) [Dan Burisch](burisch_dan.md) (then named Crain) in Las Vegas on 1990-07-17.
+Deborah was [married](burisch_deborah/burisch_marriage_certificate_1990.jpg) to [Dan Burisch](burisch_dan.md) (then named Crain) in Las Vegas on 1990-07-17.
 
 What happened to her since? Has she ever gone on the record?
 
