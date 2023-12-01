@@ -63,9 +63,7 @@ Dan Crain changed officially changed his name to Dan Burisch (see his [name chan
 graph TD;
   john[John Dennis Crain] --> dan
   dodie["Doreen &quot;Dodie&quot; Aglaie Crain (née LaPierre)"] --> dan
-  dan[Dan B. Crain] --> tiffany[Tiffany Burisch]
-  deborah[Deborah Burisch] --> tiffany
-  
+  dan[Dan B. Crain] -- m.1990 --- deborah[Deborah Burisch]
 ```
 
 # Majestic Twelve
