@@ -14,6 +14,10 @@ Purported member of [MJ-12](../organisations/mj12.md).
 graph TD;
   james[James Forrestal] --> michael[Michael Forrestal]
   josephine[Josephine Stovall] --> michael
+  james --> peter[Peter Forrestal]
+  josephine --> peter
+  michael --> anon1[Children unknown]
+  peter --> anon2[Children unknown]
 ```
 
 # Death
