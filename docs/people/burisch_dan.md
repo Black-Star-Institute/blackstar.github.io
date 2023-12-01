@@ -21,6 +21,7 @@ timeline
         1988 : MS Biology, St. Patrick's Seminary
              : Probate officer, New York
         1989 : Defends PhD Microbiology, SUNY
+             : Awarded PhD, SUNY
              : Q clearance
         198? : Contacted G. Knapp
     section 1990s
@@ -141,6 +142,10 @@ Where is his PhD certificate now?
 > Then, later that same year, Dan’s bride, Deborah Burisch, visited her new in-laws and asked to "borrow" Dan’s diploma, telling them she wanted to make a copy. She never returned it, and to this day nobody, with the possible exception of Deborah herself, knows where the certificate is.
 
 Apparently his PhD records were removed as part of Burisch's punishment for publishing *Eagles Disobey* in 1996. [Garner 2008]
+
+Deborah Burisch verbally confirmed [source?] that she removed Burisch's PhD certificate. Burisch's mother confirmed this verbally to several researchers and in a written affidavit.
+
+[Robert Byrd](byrd_robert.md) contacted SUNY and confirmed Burisch's PhD status in 1996.
 
 > As a part of his punishment, his academic and other records were quietly erased wherever the government could find them up until 1996 (Dan’s business partner contacted SUNY and
 received confirmation of his PhD). In that same year, SUNY was still acknowledging Dan’s PhD, but even though other documents corroborate Dan’s educational record, SUNY has since fallen silent to inquiries.
