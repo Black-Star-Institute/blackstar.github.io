@@ -65,6 +65,6 @@ Casino worker 1990&ndash;2004. [Howe](https://www.earthfiles.com/2004/07/13/the-
 - Deborah Kay Burisch in the U.S., Index to Public Records, 1994-2019
   * Voter Registration Lists, Public Record Filings, Historical Residential Records, and Other Household Database Listings. 
 - Deborah Burisch, "U.S., School Yearbooks, 1880-2012"; School Name: Las Vegas High School; Year: 1977
-- Nevada State Health Division, Office of Vital Records. Nevada Marriage Index, 1966-2005. Carson City, Nevada: Nevada State Health Division, Office of Vital Records. Book 724, Page C217874, Instrument number 95016
+- [Marriage certificate](burisch_deborah/burisch_marriage_certificate_1990.jpg) Nevada State Health Division, Office of Vital Records. Nevada Marriage Index, 1966-2005. Carson City, Nevada: Nevada State Health Division, Office of Vital Records. [Book 724, Page C217874, Instrument number 95016](https://www.ancestry.com/discoveryui-content/view/7406902:1100)
 - Clark County, Nevada Marriage Bureau. Clark County, Nevada Marriage Index, 1956-1966. Las Vegas, Nevada: Clark County, Nevada Marriage Bureau.
 - There are many [yearbook photos](./deborah_burisch/) of Deborah Burisch available online.
