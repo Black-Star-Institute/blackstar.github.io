@@ -13,6 +13,7 @@ Purported member of [MJ-12](../organisations/mj12.md).
 ```mermaid
 graph TD;
   james[James Forrestal] --> michael[Michael Forrestal]
+  josephine[Josephine Stovall] --> michael
 ```
 
 # Death
