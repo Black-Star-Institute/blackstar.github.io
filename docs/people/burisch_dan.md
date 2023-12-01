@@ -51,6 +51,22 @@ These are sources for this timeline:
 - Linda Moulton Howe, *Earthfiles* [The Chapter 7 Bankruptcy of Dan and Deborah Burisch](https://www.earthfiles.com/2004/07/13/the-chapter-7-bankruptcy-of-dan-and-deborah-burisch/) 2004-07-13
 - [Bill Hamilton](hamilton_william.md) [Dr. Dan Burisch timeline](https://web.archive.org/web/20030804013141/www.skywatch-research.org/ufo/Dans_timeline.htm)
 
+# Family
+
+Mother: Doreen "Dodie" Crain
+Father:
+
+## Family tree
+
+```mermaid
+graph TD;
+  john[John Dennis Crain] --> dan
+  dodie[Dorren Aglaie LaPierre] --> dan
+  dan[Dan Burisch] --> tiffany[Tiffany Burisch]
+  deborah[Deborah Burisch] --> tiffany
+  
+```
+
 # Majestic Twelve
 
 He claims to have held the position of "MJ-9" (i.e. the 9th of twelve roles) in [Majestic Twelve](../organisations/mj12.md).
