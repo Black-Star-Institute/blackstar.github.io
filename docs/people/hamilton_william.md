@@ -2,7 +2,7 @@
 
 # About
 
-William "Bill" F. Hamilton III (?&endash;2014) is an IT worker and UFO researcher who investigated the [Burisch](burisch_dan.md) case. Associated with Michael Salla's Expolitics Institute. [Exopedia biography](https://www.exopaedia.org/Hamilton%2C+William)
+William "Bill" F. Hamilton III (?&ndash;2014) is an IT worker and veteran UFO researcher who investigated the [Burisch](burisch_dan.md) case. Associated with Michael Salla's Expolitics Institute. [Exopedia biography](https://www.exopaedia.org/Hamilton%2C+William)
 
 # Skywatch International
 
