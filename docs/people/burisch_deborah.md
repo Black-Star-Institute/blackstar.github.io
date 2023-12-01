@@ -10,7 +10,7 @@ Deborah was [married](burisch_deborah/burisch_marriage_certificate_1990.jpg) to 
 What happened to her since? Has she ever gone on the record?
 
 She has lived in:
-- Las Vegas High School, Las Vegas, Nevada (1977&ndash;1979)
+- Las Vegas High School, Las Vegas, Nevada (1977&ndash;1980)
 - Greensboro, North Carolina
 - Ocean Springs, Mississippi
 - Las Vegas, Nevada (multiple addresses 1994&ndash;2008, 2011&ndash;2016, 2004&ndash;2016)
@@ -63,4 +63,4 @@ Casino worker 1990&ndash;2004. [Howe](https://www.earthfiles.com/2004/07/13/the-
 - Deborah Burisch, "U.S., School Yearbooks, 1880-2012"; School Name: Las Vegas High School; Year: 1977
 - Nevada State Health Division, Office of Vital Records. Nevada Marriage Index, 1966-2005. Carson City, Nevada: Nevada State Health Division, Office of Vital Records. Book 724, Page C217874, Instrument number 95016
 - Clark County, Nevada Marriage Bureau. Clark County, Nevada Marriage Index, 1956-1966. Las Vegas, Nevada: Clark County, Nevada Marriage Bureau.
-	
+- There are many yearbook photos of Deborah Burisch available online (ancestry.com)
