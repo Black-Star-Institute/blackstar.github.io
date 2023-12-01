@@ -8,11 +8,17 @@ Deborah was [married](burisch_deborah/burisch_marriage_certificate_1990.jpg) to 
 
 What happened to her since? Has she ever gone on the record?
 
+She has lived in: 
+- Greensboro, North Carolina
+- Ocean Springs, Mississippi
+- Las Vegas, Nevada
+- Green Valley North, Henderson, Nevada
+
 # Family
 
 Descendent of [James Forrestal](forrestal_james.md), United States Secretary of Defense and purported [Majestic 12](../organisations/mj12.md) founding member.
 
-Who is Horst Kurt Burisch (1930-07-28 to 2003-02-06)? [U.S., Veterans' Gravesites, ca.1775-2019](https://www.findagrave.com/memorial/36464281/horst-k-burisch). He was military.
+Who is Horst Kurt Burisch (1930-07-28 to 2003-02-06)? [U.S., Veterans' Gravesites, ca.1775-2019](https://www.findagrave.com/memorial/36464281/horst-k-burisch). He was military. Lived in Scottsdale, Arizona, USA.
 
 ## Family tree
 
