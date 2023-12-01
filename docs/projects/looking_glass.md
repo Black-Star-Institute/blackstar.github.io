@@ -16,3 +16,7 @@ According to [McDowell](https://projectcamelotportal.com/2008/01/04/dan-burisch-
 > events can not only be viewed but heard and more. This device was also being tested for communications protocols and
 > transportation applications as recently as 2003-2004 before being dismantled for safety reasons as we enter further into the
 > highly energetic space in and around the galactic plane.
+
+# Media
+
+- The Why Files, [Project Looking Glass | The Time Warriors of the 2012 Apocalypse](https://www.youtube.com/watch?v=_nGePkIW3Ac) 2023-12-01
