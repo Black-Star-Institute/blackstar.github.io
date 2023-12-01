@@ -63,4 +63,4 @@ Casino worker 1990&ndash;2004. [Howe](https://www.earthfiles.com/2004/07/13/the-
 - Deborah Burisch, "U.S., School Yearbooks, 1880-2012"; School Name: Las Vegas High School; Year: 1977
 - Nevada State Health Division, Office of Vital Records. Nevada Marriage Index, 1966-2005. Carson City, Nevada: Nevada State Health Division, Office of Vital Records. Book 724, Page C217874, Instrument number 95016
 - Clark County, Nevada Marriage Bureau. Clark County, Nevada Marriage Index, 1956-1966. Las Vegas, Nevada: Clark County, Nevada Marriage Bureau.
-- There are many yearbook photos of Deborah Burisch available online (ancestry.com)
+- There are many [yearbook photos](./deborah_burisch/) of Deborah Burisch available online.
