@@ -37,3 +37,4 @@ Peter Ogden Forrestal
 
 - New Jersey, U.S., Marriage Index, 1901-2016, Certificate Number 48428, Oct 1981.
 - Note [Death, Posted 28 Aug 2014 by VickyNewman69](https://www.ancestry.com/mediaui-viewer/collection/1030/tree/62126081/person/32264616114/media/042cf328-15ff-4e17-b636-52efdc2a09e3?_phsrc=AHc31&_phstart=successSource)
+- [Grave 28 May 1982, Ireland](https://www.ancestry.com/discoveryui-content/view/59317381:60525)
