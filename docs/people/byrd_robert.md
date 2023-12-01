@@ -6,7 +6,7 @@ Byrd claimed to have worked with Burisch at the Aladdin hotel and casino in Las 
 
 # Affidavit
 
-Byrd signed [an affidavit](byrd_robert/byrd_affidavit_2004.png) on 2004-08-05 confirming Burisch's attendance at Statae University of New York (SUNY) and his PhD graduation in 1989.
+Byrd signed [an affidavit](byrd_robert/byrd_affidavit_2004.png) [Hamilton 2005] on 2004-08-05 confirming Burisch's attendance at Statae University of New York (SUNY) and his PhD graduation in 1989.
 
 The text of the affidavit reads:
 
@@ -16,3 +16,7 @@ The text of the affidavit reads:
 > We were thinking about going into business together doing CPR training,
 > so I called up the State University of New York (Stony Book) in early 1996 to find out about his degree.
 > I talked to a lay at the registrar's department and she told me that Danny Crain got his Ph.D in 1989.
+
+# Sources
+
+- William F. Hamilton III, *Project Aquarius: The Story of an Aquarian Scientist*, 2005, ISBN 13 978-1420876567
