@@ -17,8 +17,8 @@ graph TD;
   josephine[ Josephine Ogden Stovall] --> michael
   james -- "b. 1930" --> peter[Peter Ogden Forrestal]
   josephine --> peter
-  michael --> anon1[Children unknown]
-  peter --> anon2[Children unknown]
+  peter -. "m. 1981" .- kath[Katherine N Callahan]
+  peter --> anon2[Anonymous daughter]
 ```
 
 # Death
