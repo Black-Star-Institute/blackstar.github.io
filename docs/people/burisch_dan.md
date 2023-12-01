@@ -88,6 +88,7 @@ What he did do to fulfill these orders in September 2006?
 - solder.ath.cx [Dan Burisch archives](https://web.archive.org/web/20050909044253/http://solder.ath.cx/Burisch/)
 - Video: Garner [Burisch endorsement statements](https://web.archive.org/web/20140602091059/http://www.area51thetruth.com/endorsements.html)
 - Website: White Rabbit [Dr Dan Burisch](https://web.archive.org/web/20040608011637/http://scorpius.spaceports.com/~bemused/Burisch.html)
+- Video: Fringe Division, podcast episode 13, [Intro to the Dan Burisch & Project Looking Glass Information](https://rumble.com/v1uz88u-fringe-division-podcast-ep-13-intro-to-the-dan-burisch-and-project-looking-.html)
 
 ## Interviews
 
