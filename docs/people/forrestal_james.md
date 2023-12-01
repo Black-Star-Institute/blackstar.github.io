@@ -17,8 +17,8 @@ graph TD;
   josephine[ Josephine Ogden Stovall] --> michael
   james -- "b. 1930" --> peter[Peter Ogden Forrestal]
   josephine --> peter
-  peter -. "m. 1981" .- kath[Katherine N Callahan]
-  peter --> anon2[Anonymous daughter]
+  peter -. "m. 1981" .- kath[Katherine 'Kit' N Callahan]
+  peter -- "b. ~1983" --> fran[Francesca]
 ```
 
 # Death
@@ -33,4 +33,7 @@ Forrestal reportedly committed suicide at Patient at Bethesda Naval Hospital. Th
 
 ## Genealogy
 
+Peter Ogden Forrestal
+
 - New Jersey, U.S., Marriage Index, 1901-2016, Certificate Number 48428, Oct 1981.
+- Note [Death, Posted 28 Aug 2014 by VickyNewman69](https://www.ancestry.com/mediaui-viewer/collection/1030/tree/62126081/person/32264616114/media/042cf328-15ff-4e17-b636-52efdc2a09e3?_phsrc=AHc31&_phstart=successSource)
