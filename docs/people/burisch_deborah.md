@@ -1,14 +1,18 @@
 # Deborah Burisch
 
-Deborah "Debbie" Kay(?) Burisch
+Deborah "Debbie" Kay Burisch.
 
 [Documents](./burisch_deborah/) including her white pages.
 
-Married [Dan Burisch (Crain)](burisch_dan.md) in the 1990s.
+[Married](burisch_dan/burisch_marriage_certificate_1990.jpg) [Dan Burisch](burisch_dan.md) (then named Crain) in Las Vegas on 1990-07-17.
 
 What happened to her since? Has she ever gone on the record?
 
-# Suspected agent
+# Family
+
+Descendent of James Vincent Forrestal, United States Secretary of Defense and purported [Majestic 12](../organisations/mj12.md) founding member.
+
+# MJ-12 member
 
 Was she involved in covering up Dan's records?
 
