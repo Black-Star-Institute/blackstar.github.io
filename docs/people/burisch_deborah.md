@@ -1,6 +1,6 @@
 # Deborah Burisch
 
-Deborah "Debbie" Kay Burisch.
+Deborah "Debbie" Kay Burisch. Borns 196?.
 
 [Documents](./burisch_deborah/) including her white pages.
 
