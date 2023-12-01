@@ -24,14 +24,17 @@ better keep an eye on his private life
 
 # Cover job
 
-[Moulton Howe](https://www.earthfiles.com/2004/07/13/the-chapter-7-bankruptcy-of-dan-and-deborah-burisch/)
+According to [Linda Moulton Howe](https://www.earthfiles.com/2004/07/13/the-chapter-7-bankruptcy-of-dan-and-deborah-burisch/)'s investigation:
+
 > Bill Hamilton also understood that Deborah Burisch worked for the U. S. government as Dan’s government “handler,” a person assigned to monitor Burisch’s microbiology work, while maintaining her “cover job” as PBX Operator at the Mirage casino.
 
-Casino worker 1990&ndash;2004.
-
-[Linda Moulton Howe](https://www.earthfiles.com/2004/07/13/the-chapter-7-bankruptcy-of-dan-and-deborah-burisch/)
+Casino worker 1990&ndash;2004. [Howe](https://www.earthfiles.com/2004/07/13/the-chapter-7-bankruptcy-of-dan-and-deborah-burisch/)
 
 >  Deborah Burisch is listed as “PBX Operator” at the Mirage casino for 12 years in July 2002, or fourteen years by July 2004.
 
 > Dan had told Bill Hamilton that his wife, Deborah, also worked with him in his classified government project, but she had a “cover job” in a Las Vegas casino.
 > How could these two people be filing Chapter 7 bankruptcy on July 16, 2002, and simultaneously be working for a classified U. S. government project?
+
+# Sources
+
+- Linda Moulton Howe, ["The Chapter 7 Bankruptcy of Dan and Deborah Burisch"](https://www.earthfiles.com/2004/07/13/the-chapter-7-bankruptcy-of-dan-and-deborah-burisch/), 2004-07-13
