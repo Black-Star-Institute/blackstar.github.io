@@ -6,7 +6,7 @@ Byrd claimed to have worked with Burisch at the Aladdin hotel and casino in Las 
 
 # Affidavit
 
-Byrd signed [an affidavit](burisch_dan/byrd_affidavit_2004.png) on 2004-08-05 confirming Burisch's attendance at Statae University of New York (SUNY) and his PhD graduation in 1989.
+Byrd signed [an affidavit](byrd_robert/byrd_affidavit_2004.png) on 2004-08-05 confirming Burisch's attendance at Statae University of New York (SUNY) and his PhD graduation in 1989.
 
 The text of the affidavit reads:
 
