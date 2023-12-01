@@ -60,7 +60,8 @@ Casino worker 1990&ndash;2004. [Howe](https://www.earthfiles.com/2004/07/13/the-
 
 ## Geneology
 
-- Birth record [Deborah Kay Mottley](https://www.ancestry.com/discoveryui-content/view/3286172:9277) in the Virginia, U.S., Birth Records, 1912-2015, Delayed Birth Records, 1721-1920. Certificate Number 1961047691.
+- Birth record [Deborah Kay Mottley](https://www.ancestry.com/discoveryui-content/view/3286172:9277) in the Virginia, U.S., Birth Records, 1912-2015, Delayed Birth Records, 1721-1920. Certificate Number 1961047691. [Virginia Department of Health; Richmond, Virginia; Virginia, Births, 1864-2015]
+
 - Deborah Kay Burisch in the U.S., Index to Public Records, 1994-2019
   * Voter Registration Lists, Public Record Filings, Historical Residential Records, and Other Household Database Listings. 
 - Deborah Burisch, "U.S., School Yearbooks, 1880-2012"; School Name: Las Vegas High School; Year: 1977
