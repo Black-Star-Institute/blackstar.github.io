@@ -12,7 +12,7 @@ What happened to her since? Has she ever gone on the record?
 
 Descendent of [James Forrestal](forrestal_james.md), United States Secretary of Defense and purported [Majestic 12](../organisations/mj12.md) founding member.
 
-Who is Horst Kurt Burisch (1930-07-28&ndash;2003-02-06)? [U.S., Veterans' Gravesites, ca.1775-2019](https://www.findagrave.com/memorial/36464281/horst-k-burisch). He was military.
+Who is Horst Kurt Burisch (1930-07-28 to 2003-02-06)? [U.S., Veterans' Gravesites, ca.1775-2019](https://www.findagrave.com/memorial/36464281/horst-k-burisch). He was military.
 
 ## Family tree
 
