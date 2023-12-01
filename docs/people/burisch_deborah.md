@@ -1,6 +1,6 @@
 # Deborah Burisch
 
-Deborah "Debbie" Kay Burisch. Borns 196?.
+Deborah "Debbie" Kay Burisch. Born June 1961. [U.S., Index to Public Records, 1994-2019]
 
 [Documents](./burisch_deborah/) including her white pages.
 
@@ -11,8 +11,8 @@ What happened to her since? Has she ever gone on the record?
 She has lived in: 
 - Greensboro, North Carolina
 - Ocean Springs, Mississippi
-- Las Vegas, Nevada
-- Green Valley North, Henderson, Nevada
+- Las Vegas, Nevada (multiple addresses 1994&ndash;2008, 2011&ndash;2016, 2004&ndash;2016)
+- Green Valley North, Henderson, Nevada (2014&ndash;2020)
 
 # Family
 
@@ -53,3 +53,8 @@ Casino worker 1990&ndash;2004. [Howe](https://www.earthfiles.com/2004/07/13/the-
 # Sources
 
 - Linda Moulton Howe, ["The Chapter 7 Bankruptcy of Dan and Deborah Burisch"](https://www.earthfiles.com/2004/07/13/the-chapter-7-bankruptcy-of-dan-and-deborah-burisch/), 2004-07-13
+
+## Geneology
+
+- Deborah Kay Burisch in the U.S., Index to Public Records, 1994-2019
+- Deborah Burisch, "U.S., School Yearbooks, 1880-2012"; School Name: Las Vegas High School; Year: 1977
