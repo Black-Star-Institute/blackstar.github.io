@@ -33,6 +33,12 @@ Forrestal reportedly committed suicide at Patient at Bethesda Naval Hospital. Th
 
 ## Genealogy
 
+### Michael Vincent Forrestal
+
+[Wikipedia](https://en.wikipedia.org/wiki/Michael_Forrestal#Personal_life) states:
+
+> Michael Forrestal never married or had children. 
+
 ### Peter Ogden Forrestal
 
 - New Jersey, U.S., Marriage Index, 1901-2016, Certificate Number 48428, Oct 1981.
