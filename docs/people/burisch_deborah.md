@@ -1,5 +1,7 @@
 # Deborah Burisch
 
+![Debbie Burisch 1977 yearbook photo](burisch_deborah/Yearbook_profile_photo.jpg)
+
 Deborah "Debbie" Kay Burisch. Born June 1961. [U.S., Index to Public Records, 1994-2019]
 
 [Documents](./burisch_deborah/) including her white pages.
