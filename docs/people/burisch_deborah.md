@@ -17,7 +17,7 @@ She has lived in:
 
 # Family
 
-Descendent of [James Forrestal](forrestal_james.md), United States Secretary of Defense and purported [Majestic 12](../organisations/mj12.md) founding member.
+Marica McDowell claims that Deborah is a descendent of [James Forrestal](forrestal_james.md), United States Secretary of Defense and purported [Majestic 12](../organisations/mj12.md) founding member.
 
 ## Family tree
 
