@@ -28,3 +28,9 @@ Forrestal reportedly committed suicide at Patient at Bethesda Naval Hospital. Th
 - Richard Dolan [The Death of James Forrestal](https://www.youtube.com/watch?v=mDKPtUc4MJQ)
 - Aerial Phenomena with Richard Dolan, [*The Suspicious Death of James Forrestal*](https://www.gaia.com/video/the-suspicious-death-of-james-forrestal)
 - David Martin *The Assassination of James Forrestal*, 2021
+
+# Sources
+
+## Genealogy
+
+- New Jersey, U.S., Marriage Index, 1901-2016, Certificate Number 48428, Oct 1981.
