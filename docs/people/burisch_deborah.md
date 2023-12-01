@@ -24,8 +24,8 @@ Descendent of [James Forrestal](forrestal_james.md), United States Secretary of 
 ```mermaid
 graph TD;
   doris -. "m. 1937" .- herman[Herman Maxie Mottley, Jr.]
-  harry[Harry Ernest Burisch] -- "b.1961" --> deborah
-  doris[Doris Ann Huffman] --> deborah
+  harry[Harry Ernest Burisch] --> deborah
+  doris[Doris Ann Huffman] -- "b.1961" --> deborah
   deborah[Deborah Kay Burisch] -- "b.1988" --> tiffany[Tiffany Nicole Burisch]
   dan[Danny B Crain] -. "m.1990" .- deborah
   fred[Frederick Lamar Dandridge?] --> tiffany
