@@ -1,5 +1,7 @@
 # Dan Burisch
 
+> Why won't the aliens save us? We have to save ourselves. &mdash; Dan Burisch
+
 Dr. Danny B. Catselas Burisch, formerly Dan B. Crain. Born 1964-02-02. Purported whistleblower from Area 51 and claims to be a member of Majestic-12 (MJ-12.)
 
 # Timeline
