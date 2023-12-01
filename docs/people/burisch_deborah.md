@@ -2,7 +2,7 @@
 
 <img align="right" src="burisch_deborah/Yearbook_profile_photo.jpg" alt="Debbie Burisch 1977 yearbook photo">
 
-Deborah "Debbie" Kay Burisch. Born June 1961. [U.S., Index to Public Records, 1994-2019]
+Deborah "Debbie" Kay Burisch. Born <time datetime="1961-06-30">30th June 1961</time>. [U.S., Index to Public Records, 1994-2019]
 
 [Documents](./burisch_deborah/) including her white pages.
 
@@ -59,4 +59,8 @@ Casino worker 1990&ndash;2004. [Howe](https://www.earthfiles.com/2004/07/13/the-
 ## Geneology
 
 - Deborah Kay Burisch in the U.S., Index to Public Records, 1994-2019
+  * Voter Registration Lists, Public Record Filings, Historical Residential Records, and Other Household Database Listings. 
 - Deborah Burisch, "U.S., School Yearbooks, 1880-2012"; School Name: Las Vegas High School; Year: 1977
+- Nevada State Health Division, Office of Vital Records. Nevada Marriage Index, 1966-2005. Carson City, Nevada: Nevada State Health Division, Office of Vital Records. Book 724, Page C217874, Instrument number 95016
+- Clark County, Nevada Marriage Bureau. Clark County, Nevada Marriage Index, 1956-1966. Las Vegas, Nevada: Clark County, Nevada Marriage Bureau.
+	
