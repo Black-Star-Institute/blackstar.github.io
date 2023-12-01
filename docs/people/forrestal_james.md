@@ -14,7 +14,7 @@ Purported member of [MJ-12](../organisations/mj12.md).
 graph TD;
   james[James Vincent Forrestal] -- "b. 1927" --> michael[Michael Vincent Forrestal]
   james -. "m. 1926" .- josephine
-  josephine[ Josephine Ogden Stovall] --> michael
+  josephine[Josephine Ogden Stovall] --> michael
   james -- "b. 1930" --> peter[Peter Ogden Forrestal]
   josephine --> peter
   peter -. "m. 1981" .- kath[Katherine 'Kit' N Callahan]
@@ -36,7 +36,10 @@ Forrestal reportedly committed suicide at Patient at Bethesda Naval Hospital. Th
 Peter Ogden Forrestal
 
 - New Jersey, U.S., Marriage Index, 1901-2016, Certificate Number 48428, Oct 1981.
-- Note [Death, Posted 28 Aug 2014 by VickyNewman69](https://www.ancestry.com/mediaui-viewer/collection/1030/tree/62126081/person/32264616114/media/042cf328-15ff-4e17-b636-52efdc2a09e3?_phsrc=AHc31&_phstart=successSource)
+- Note [Death, Posted 28 Aug 2014 by VickyNewman69](https://www.ancestry.com/mediaui-viewer/collection/1030/tree/62126081/person/32264616114/media/042cf328-15ff-4e17-b636-52efdc2a09e3)
+  * "His last job was with Bankers Trust in London, and he had a home in Ireland where he kept his horses. He died alone there in 1983 of a massive abdominal hemorrhage caused by years of heavy drinking. He was 52."
 - [Grave 28 May 1982, Ireland](https://www.ancestry.com/discoveryui-content/view/59317381:60525)
 - Daughter:
   * [Francesca Cassell Forrestal?](https://www.ancestry.com/discoveryui-content/view/302157380:62209)
+- Wife, married in New Jersey just before his death in October 1981:
+  * Katherine 'Kit' N Callahan is from New Jersey.
