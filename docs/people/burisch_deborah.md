@@ -9,7 +9,8 @@ Deborah was [married](burisch_deborah/burisch_marriage_certificate_1990.jpg) to 
 
 What happened to her since? Has she ever gone on the record?
 
-She has lived in: 
+She has lived in:
+- Las Vegas High School, Las Vegas, Nevada (1977&ndash;1979)
 - Greensboro, North Carolina
 - Ocean Springs, Mississippi
 - Las Vegas, Nevada (multiple addresses 1994&ndash;2008, 2011&ndash;2016, 2004&ndash;2016)
