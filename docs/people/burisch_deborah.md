@@ -10,7 +10,7 @@ What happened to her since? Has she ever gone on the record?
 
 # Family
 
-Descendent of James Vincent Forrestal, United States Secretary of Defense and purported [Majestic 12](../organisations/mj12.md) founding member.
+Descendent of [James Forrestal](forrestal_james.md), United States Secretary of Defense and purported [Majestic 12](../organisations/mj12.md) founding member.
 
 # MJ-12 member
 
