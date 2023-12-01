@@ -26,7 +26,8 @@ Descendent of [James Forrestal](forrestal_james.md), United States Secretary of 
 graph TD;
   anon[Parents unknown] --> deborah
   deborah[Deborah Kay Burisch] --> tiffany[Tiffany Nicole Burisch]
-  dan[Danny B Crain] --> tiffany
+  anon2[Father unknown] --> tiffany
+  dan[Danny B Crain] -- m.1990 --- deborah
 ```
 
 # MJ-12 member
