@@ -62,7 +62,7 @@ Dan Crain changed officially changed his name to Dan Burisch (see his [name chan
 ```mermaid
 graph TD;
   john[John Dennis Crain] --> dan
-  dodie["Doreen \"Dodie\" Aglaie Crain (née LaPierre)"] --> dan
+  dodie["Doreen &quot;Dodie&quot; Aglaie Crain (née LaPierre)"] --> dan
   dan[Dan B. Crain] --> tiffany[Tiffany Burisch]
   deborah[Deborah Burisch] --> tiffany
   
