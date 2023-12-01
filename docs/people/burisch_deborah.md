@@ -2,7 +2,7 @@
 
 <img align="right" src="burisch_deborah/Yearbook_profile_photo_1979.jpg" alt="Debbie Burisch 1979 yearbook photo">
 
-Deborah "Debbie" Kay Burisch AKA Deborah Kay Mottley was born <time datetime="1961-06-30">30th June 1961</time>.
+Deborah "Debbie" Kay Burisch AKA Deborah Kay Mottley was [born <time datetime="1961-06-30">30th June 1961</time>](https://www.ancestry.com/discoveryui-content/view/3286172:9277) in Roanoke, Virginia, USA.
 
 Deborah was [married](burisch_deborah/burisch_marriage_certificate_1990.jpg) to [Dan Burisch](burisch_dan.md) (then named Crain) in Las Vegas, Nevada, USA on 1990-07-17. In addition to the marriage certificate, this is confirmed in the Nevada Marriage Index for 1956&ndash;2005.
 
