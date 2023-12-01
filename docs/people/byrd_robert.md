@@ -1,12 +1,12 @@
 # Robert Byrd
 
-Robert Byrd was a business partner of Dan Burisch who, in 1996, investigated his background as part of plans to go into business togther [Hamilton 2005 page 231].
+Robert Byrd was a business partner of Dan Burisch who, in 1996, investigated his background as part of plans to go into business togther [Hamilton 2005].
 
 Byrd claimed to have worked with Burisch at the Aladdin hotel and casino in Las Vegas in 1995.
 
 # Affidavit
 
-Byrd signed [an affidavit](byrd_robert/byrd_affidavit_2004.png) [Hamilton 2005] on 2004-08-05 confirming Burisch's attendance at Statae University of New York (SUNY) and his PhD graduation in 1989.
+Byrd signed [an affidavit](byrd_robert/byrd_affidavit_2004.png) [Hamilton 2005 page 165] on 2004-08-05 confirming Burisch's attendance at Statae University of New York (SUNY) and his PhD graduation in 1989.
 
 The text of the affidavit reads:
 
