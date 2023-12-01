@@ -21,6 +21,8 @@ Is this the same person?
 
 Deborah Kay Mottley was [born <time datetime="1961-06-30">30th June 1961</time>](https://www.ancestry.com/discoveryui-content/view/3286172:9277) in Roanoke, Virginia, USA.
 
+- Birth record [Deborah Kay Mottley](https://www.ancestry.com/discoveryui-content/view/3286172:9277) in the Virginia, U.S., Birth Records, 1912-2015, Delayed Birth Records, 1721-1920. Certificate Number 1961047691. [Virginia Department of Health; Richmond, Virginia; Virginia, Births, 1864-2015]
+
 # Family
 
 Descendent of [James Forrestal](forrestal_james.md), United States Secretary of Defense and purported [Majestic 12](../organisations/mj12.md) founding member.
@@ -65,8 +67,6 @@ Casino worker 1990&ndash;2004. [Howe](https://www.earthfiles.com/2004/07/13/the-
 - Linda Moulton Howe, ["The Chapter 7 Bankruptcy of Dan and Deborah Burisch"](https://www.earthfiles.com/2004/07/13/the-chapter-7-bankruptcy-of-dan-and-deborah-burisch/), 2004-07-13
 
 ## Geneology
-
-- Birth record [Deborah Kay Mottley](https://www.ancestry.com/discoveryui-content/view/3286172:9277) in the Virginia, U.S., Birth Records, 1912-2015, Delayed Birth Records, 1721-1920. Certificate Number 1961047691. [Virginia Department of Health; Richmond, Virginia; Virginia, Births, 1864-2015]
 
 - Deborah Kay Burisch in the U.S., Index to Public Records, 1994-2019
   * Voter Registration Lists, Public Record Filings, Historical Residential Records, and Other Household Database Listings. 
