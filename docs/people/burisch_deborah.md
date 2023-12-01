@@ -24,10 +24,10 @@ Descendent of [James Forrestal](forrestal_james.md), United States Secretary of 
 
 ```mermaid
 graph TD;
-  anon[Parents unknown] -- b.1961 --> deborah
-  deborah[Deborah Kay Burisch] -- b.1988 --> tiffany[Tiffany Nicole Burisch]
+  anon[Parents unknown] -- "b.1961" --> deborah
+  deborah[Deborah Kay Burisch] -- "b.1988" --> tiffany[Tiffany Nicole Burisch]
   anon2[Father unknown] --> tiffany
-  dan[Danny B Crain] -- m.1990 --- deborah
+  dan[Danny B Crain] -. "m.1990" .- deborah
 ```
 
 # MJ-12 member
