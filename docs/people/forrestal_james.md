@@ -12,9 +12,10 @@ Purported member of [MJ-12](../organisations/mj12.md).
 
 ```mermaid
 graph TD;
-  james[James Forrestal] --> michael[Michael Forrestal]
-  josephine[Josephine Stovall] --> michael
-  james --> peter[Peter Forrestal]
+  james[James Vincent Forrestal] -- "b. 1927" --> michael[Michael Vincent Forrestal]
+  james -. "m. 1926" .- josephine
+  josephine[ Josephine Ogden Stovall] --> michael
+  james -- "b. 1930" --> peter[Peter Ogden Forrestal]
   josephine --> peter
   michael --> anon1[Children unknown]
   peter --> anon2[Children unknown]
