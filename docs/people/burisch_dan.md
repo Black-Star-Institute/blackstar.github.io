@@ -53,15 +53,16 @@ These are sources for this timeline:
 
 # Family
 
-Mother: Doreen "Dodie" Crain
-Father:
+## Name change
+
+Dan Crain changed officially changed his name to Dan Burisch (see his [name change document](burisch_dan/burisch_crain_name_change.jpg), [page 2](burisch_dan/burisch_crain_name_change_2.jpg) 1995-06-03) to match that of his wife and daughter.
 
 ## Family tree
 
 ```mermaid
 graph TD;
   john[John Dennis Crain] --> dan
-  dodie[Dorren Aglaie LaPierre] --> dan
+  dodie["Doreen "Dodie" Aglaie Crain (née LaPierre)"] --> dan
   dan[Dan B. Crain] --> tiffany[Tiffany Burisch]
   deborah[Deborah Burisch] --> tiffany
   
