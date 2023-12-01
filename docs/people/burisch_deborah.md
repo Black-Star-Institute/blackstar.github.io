@@ -12,6 +12,14 @@ What happened to her since? Has she ever gone on the record?
 
 Descendent of [James Forrestal](forrestal_james.md), United States Secretary of Defense and purported [Majestic 12](../organisations/mj12.md) founding member.
 
+## Family tree
+
+```mermaid
+graph TD;
+  deborah[Deborah Burisch] --> tiffany[Tiffany Nicole Burisch]
+  dan[Dan Burisch] --> tiffany
+```
+
 # MJ-12 member
 
 Was she involved in covering up Dan's records?
