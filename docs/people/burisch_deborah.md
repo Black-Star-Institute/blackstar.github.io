@@ -18,7 +18,9 @@ She has lived in:
 
 Descendent of [James Forrestal](forrestal_james.md), United States Secretary of Defense and purported [Majestic 12](../organisations/mj12.md) founding member.
 
-Who is Horst Kurt Burisch (1930-07-28 to 2003-02-06)? [U.S., Veterans' Gravesites, ca.1775-2019](https://www.findagrave.com/memorial/36464281/horst-k-burisch). He was in the military and lived in Scottsdale, Arizona, USA and is buried at National Memorial Cemetery of Arizona.
+Ancestry.com [All Web: Obituary Daily Times Index, 1995-2016 results for burisch](https://www.ancestry.co.uk/search/collections/70050/?name=_burisch&name_x=_s)
+
+Who is Horst Kurt Burisch (1930-07-28 to 2003-02-06)? [U.S., Veterans' Gravesites, ca.1775-2019](https://www.findagrave.com/memorial/36464281/horst-k-burisch). He was in the military and lived in Scottsdale, Arizona, USA and is buried at National Memorial Cemetery of Arizona. He was a Corporal in the United States Marine Corps.
 
 ## Family tree
 
