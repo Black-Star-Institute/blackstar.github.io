@@ -24,7 +24,7 @@ She has lived in:
 So far, the best guess I have is this:
 
 - Deborah's maternal grandfather [James H. Huffman](huffman_james.md) was a friend of Forrestal. [source?]
-- When her mother remarried, Deborah's father-in-law [Harry Burisch](burisch_harry.md) worked as a courier for Majestic 12. [source?]
+- When her mother remarried, Deborah's father-in-law [Harry Burisch](burisch_harry.md) worked as a courier for Majestic 12. [source?] The problem with this is that I can't find a record of Doris having the surname Burisch before 1982. Did Harry have enough time to befriend James Huffman before he died in 1982?
 - Deborah became a member of Majestic 12 as a result of these family connections. [source?]
 
 # Taped statements
@@ -32,6 +32,8 @@ So far, the best guess I have is this:
 Marcia McDowell claims [Hamilton page 237] in her [email of 10th August 2004](mcdowell_marcia/2004_ufo_magazine_email.txt) that Deborah recorded several statements:
 
 > Plus, there are *taped statements from Deborah Burisch*. The most revealing of which expressly tells how she removed his original Ph.D degree certificate from his wall. Anyone can listen to her tell what happened in her own words by going to the archives at the end of this letter. It's all on file. She also talks about the bankruptcy, with great arrogance, I might add.
+
+There were uploaded to the internet in c. 2004 but haven't yet been found (they may not have been archived.)
 
 # Genealogy
 
@@ -50,10 +52,11 @@ graph TD;
   grandad -. "m. 1941" .- grandma
   grandma["Cathryn Lee Caldwell Huffman\n(1923&ndash;1978)"] --> mum
   grandad["James Hafford Huffman\n(1917&ndash;1982)"] --> mum
-  harry["Harry Ernest Burisch\n(1933&ndash;2000)"] -- "???" --> deborah
-  dad[Herman Maxie Mottley, Jr.] --> deborah
-  mum[Doris Ann Huffman???] --> deborah
-  deborah[Deborah Kay Burisch] -- "b.1988" --> tiffany[Tiffany Nicole Burisch]
+  grandad -. "Friend???" .- forrestal["James Forrestal\n(1892&ndash;1949)"]
+  harry["Harry Ernest Burisch\n(1933&ndash;2000)"] -. "???" .- mum
+  dad["Herman Maxie Mottley, Jr.\n(1937&ndash;)"] -- "???" --> deborah
+  mum[Doris Ann Huffman/Burisch???] -- "???" --> deborah
+  deborah["Deborah Kay Burisch\n(1961&ndash;)"] -- "b.1988" --> tiffany[Tiffany Nicole Burisch]
   anon[Father unknown] --> tiffany
   dan[Danny B Crain] -. "m.1990" .- deborah
 ```

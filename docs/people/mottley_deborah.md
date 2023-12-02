@@ -21,9 +21,9 @@ Differences:
 
 ```mermaid
 graph TD;
+  herman -- "???" --> deborah
   doris -. "m. 1937" .- herman[Herman Maxie Mottley, Jr.]
-  dad[Father unknown] --> deborah
-  doris[Doris Ann Huffman] -- "b.1961" --> deborah[Deborah Kay Mottley]
+  doris[Doris Ann Huffman] -- "???" --> deborah["Deborah Kay Mottley\n(1961&ndash;)"]
 ```
 
 
@@ -31,4 +31,4 @@ graph TD;
 # References
 
 - Birth record [Deborah Kay Mottley](https://www.ancestry.com/discoveryui-content/view/3286172:9277) in the Virginia, U.S., Birth Records, 1912-2015, Delayed Birth Records, 1721-1920. Certificate Number 1961047691. Virginia Department of  Health; Richmond, Virginia; Virginia, Births, 1864-2015.
-- U.S., School Yearbooks, 1900-2016 for Debbie Mottley, Appomattox High School, Virginia. 1977
+- U.S., School Yearbooks, 1900-2016 for Debbie Mottley, Appomattox High School, Virginia. 1977
