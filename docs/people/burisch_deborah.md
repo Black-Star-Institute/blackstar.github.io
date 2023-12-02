@@ -2,7 +2,7 @@
 
 <img align="right" src="burisch_deborah/Yearbook_profile_photo_1979.jpg" alt="Debbie Burisch 1979 yearbook photo">
 
-Deborah "Debbie" Kay Burisch was born <time datetime="1961-06-30">30th June 1961</time> [source?].
+Deborah "Debbie" Kay Burisch was born <time datetime="1961-06-30">30th June 1961</time> [[source]](https://www.ancestry.co.uk/discoveryui-content/view/162769031:1732).
 
 Deborah was [married](burisch_deborah/burisch_marriage_certificate_1990.jpg) to [Dan Burisch](burisch_dan.md) (then named Crain) in Las Vegas, Nevada, USA on 1990-07-17. In addition to the marriage certificate, this is confirmed in the Nevada Marriage Index for 1956&ndash;2005.
 
@@ -19,18 +19,19 @@ She has lived in:
 
 [Marica McDowell](mcdowell_marcia.md) claims that Deborah is a descendent of [James Forrestal](forrestal_james.md), United States Secretary of Defense and purported [Majestic 12](../organisations/mj12.md) founding member.
 
+Debbie may be the daughter of [Harry Burisch](burisch_harry.md) and may or may not have a pseudonym as [Deborah Kay Mottley](mottley_deborah.md).
+
 ## Family tree
 
-DRAFT - Huffman/Mottley link may be erroneous,
+This is the current best attempt at reconstructing the genealogy of Debbie Burisch.
 
 ```mermaid
 graph TD;
-  doris -. "m. 1937" .- herman[Herman Maxie Mottley, Jr.]
-  harry[Harry Ernest Burisch] --> deborah
-  doris[Doris Ann Huffman] -- "b.1961" --> deborah
+  dad[Father unknown] --> deborah
+  mum[Mother unknown] --> deborah
   deborah[Deborah Kay Burisch] -- "b.1988" --> tiffany[Tiffany Nicole Burisch]
+  anon[Father unknown] --> tiffany
   dan[Danny B Crain] -. "m.1990" .- deborah
-  fred[Frederick Lamar Dandridge?] --> tiffany
 ```
 
 # MJ-12 member
@@ -60,11 +61,11 @@ Casino worker 1990&ndash;2004. [Howe](https://www.earthfiles.com/2004/07/13/the-
 
 - Linda Moulton Howe, ["The Chapter 7 Bankruptcy of Dan and Deborah Burisch"](https://www.earthfiles.com/2004/07/13/the-chapter-7-bankruptcy-of-dan-and-deborah-burisch/), 2004-07-13
 
-## Geneology
+## Genealogy
 
-- Deborah Kay Burisch in the U.S., Index to Public Records, 1994-2019
-  * Voter Registration Lists, Public Record Filings, Historical Residential Records, and Other Household Database Listings. 
+- [Deborah Kay Burisch in the U.S., Index to Public Records, 1994-2019](https://www.ancestry.co.uk/discoveryui-content/view/334934689:1788). Voter Registration Lists, Public Record Filings, Historical Residential Records, and Other Household Database Listings.
+- [Deborah Burisch in the U.S., Public Records Index, 1950-1993, Volume 2](https://www.ancestry.co.uk/discoveryui-content/view/162769031:1732). Voter Registration Lists, Public Record Filings, Historical Residential Records, and Other Household Database Listings.
 - Deborah Burisch, "U.S., School Yearbooks, 1880-2012"; School Name: Las Vegas High School; Year: 1977
 - [Marriage certificate](burisch_deborah/burisch_marriage_certificate_1990.jpg) Nevada State Health Division, Office of Vital Records. Nevada Marriage Index, 1966-2005. Carson City, Nevada: Nevada State Health Division, Office of Vital Records. [Book 724, Page C217874, Instrument number 95016](https://www.ancestry.com/discoveryui-content/view/7406902:1100)
-- Clark County, Nevada Marriage Bureau. Clark County, Nevada Marriage Index, 1956-1966. Las Vegas, Nevada: Clark County, Nevada Marriage Bureau.
+- [Deborah Kay Burisch in the Nevada, U.S., Marriage Index, 1956-2005](https://www.ancestry.co.uk/discoveryui-content/view/7406902:1100). Clark County, Nevada Marriage Bureau. Clark County, Nevada Marriage Index, 1956-1966.
 - There are many [yearbook photos](./deborah_burisch/) of Deborah Burisch available online.

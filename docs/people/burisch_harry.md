@@ -1,6 +1,6 @@
 # Harry Burisch
 
-Harry Ernest Burisch (11th April 1933&ndash;6th August 2000).
+Harry Ernest Burisch (11th April 1933&ndash;6th August 2000) AKA Harry Burisch Jr.
 
 US Navy. Dates?
 
@@ -10,7 +10,12 @@ Link to [James Forrestal](forrestal_james.md)?
 
 ```mermaid
 timeline
-  1993 : Born, Illinois
+  1933 : Born, Illinois
+  1944 : Piano High School, Illinois
+  1955 : Marries N. Guthrie in Virginia
+  1958 : Driver, Armored Motor Serv. Virginia
+  1973 : Divorced in Virginia
+  1982 : Resident of Las Vegas, Nevada
   2000 : Died, Las Vegas, Nevada
 ```
 
@@ -31,6 +36,8 @@ Nadean Guthrie
 
 ## Death
 
+Died 6th August 2000 in ZIP 89102, Las Vegas, Clark, Nevada, USA.
+
 [Obituary](https://www.ancestry.co.uk/discoveryui-content/view/10243315:70050) records:
 
 - *Las Vegas Sun*, 2000-08-10
@@ -44,3 +51,18 @@ BURISCH, Harry Ernest; 67; Aurora IL>Las Vegas NV; Las Vegas Sun; 2000-8-10; neb
 # Genealogy
 
 Not confirmed family link to [Deborah Burisch](burisch_deborah.md).
+
+```mermaid
+graph TD;
+  harryc["Harry Cecil Burisch\n(1900&ndash;1993)"] --> harry
+  mildred[Mildred Eunice Hopps] -- b. 1933 --> harry
+  harry["Harry Ernest Burisch\n(1933&ndash;2000)"]
+  harry -. "m. 1955" -.-  nadine[Nadean Guthrie]
+
+```
+
+# References
+
+* Harry Ernest Burisch in the U.S., Social Security Applications and Claims Index, 1936-2007.
+* Harry Ernest Burisch in the Virginia, U.S., Marriage Records, 1936-2014. Certificate Number 1955031856. 
+* Harry Burisch, in the U.S., School Yearbooks, 1900-2016. U.S., School Yearbooks, 1880-2012"; School Name: Plano High School; Year: 1944.
