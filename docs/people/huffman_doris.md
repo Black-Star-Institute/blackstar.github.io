@@ -27,8 +27,8 @@ timeline
        : Deborah Kay Mottley born 30th June 1961
   1982 : Roanoke Times names Doris Ann Mottley
        : Surname Burisch, Las Vegas
-  1993 : Las Vegas
-  1999 : Mississippi, USA 
+  1993 : Resident of Las Vegas
+  1999 : Resident of Mississippi
 ```
 
 

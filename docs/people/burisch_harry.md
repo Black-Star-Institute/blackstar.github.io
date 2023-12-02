@@ -6,7 +6,7 @@ Marcia McDowell stated [Hamilton page 226] in her [email of 10th August 2004](mc
 
 >Deborah Burisch, *Harry (her father)*, Doreen Crain (Dan´s mother) and John Crain (Dan´s father) were in the audience that day. Everybody stiffened up visibly. The big guys who had their hands crossed over their suit jackets and kept staring at Dan (security personnel) were poised on a knife-edge in case Dan said the wrong thing.
 
-"Family ties" to [James Forrestal](forrestal_james.md)? What does this mean?
+"Family ties" to [James Forrestal](forrestal_james.md)? What does this mean? Did he marry the daughter of [James Huffman](huffman_james.md) in Las Vegas in c. 1982? It's coincidental that Harry married Nadean in Roanoke, Virginia, which is the same place that [Herman](mottley_herman.md) & [Doris Mottley](huffman_doris.md) lived.
 
 # Timeline
 
@@ -16,7 +16,7 @@ US Navy. Dates?
 timeline
   1933 : Born, Illinois
   1944 : Piano High School, Illinois
-  1955 : Marries N. Guthrie in Virginia
+  1955 : Marries Nadean Guthrie in Roanoke, Virginia
   1958 : Driver, Armored Motor Serv. Virginia
   1973 : Divorced in Virginia
   1982 : Resident of Las Vegas, Nevada
@@ -54,7 +54,7 @@ BURISCH, Harry Ernest; 67; Aurora IL>Las Vegas NV; Las Vegas Sun; 2000-8-10; neb
 
 # Genealogy
 
-Harry is [Deborah Burisch](burisch_deborah.md)'s father.
+Harry may be [Deborah Burisch](burisch_deborah.md)'s step-father. Did he marry [Doris Ann Huffman](huffman_doris.md) in c. 1982?
 
 ```mermaid
 graph TD;
@@ -62,7 +62,7 @@ graph TD;
   mildred[Mildred Eunice Hopps] -- b. 1933 --> harry
   harry["Harry Ernest Burisch\n(1933&ndash;2000)"]
   harry -. "m. 1955&ndash;1973" -.-  nadine[Nadean Guthrie]
-  harry --> debbie["Deborah Kay Burisch\n(1961&ndash;)"]
+  harry -. "Step-father?" .-> debbie["Deborah Kay Burisch\n(1961&ndash;)"]
 
 ```
 

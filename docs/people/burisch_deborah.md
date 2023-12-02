@@ -23,7 +23,7 @@ She has lived in:
 
 So far, the best guess I have is this:
 
-- Deborah's maternal grandfather [James H. Huffman](huffman_james.md) was a friend of Forrestal. [source?]
+- Deborah's maternal grandfather [James H. Huffman](huffman_james.md) was a friend of Forrestal. [source?]
 - When her mother remarried, Deborah's father-in-law [Harry Burisch](burisch_harry.md) worked as a courier for Majestic 12. [source?]
 - Deborah became a member of Majestic 12 as a result of these family connections. [source?]
 
@@ -35,7 +35,7 @@ Marcia McDowell claims [Hamilton page 237] in her [email of 10th August 2004](mc
 
 # Genealogy
 
-Debbie is the daughter of [Harry Burisch](burisch_harry.md). She may or may not have a pseudonym as [Deborah Kay Mottley](mottley_deborah.md).
+Debbie is the step-daughter daughter of [Harry Burisch](burisch_harry.md). Her mother seems to be [Doris Ann Huffman](huffman_doris.md), although this is not clear. She may or may not have a pseudonym as [Deborah Kay Mottley](mottley_deborah.md).
 
 Was Harry Burisch involved in Majestic 12?
 
