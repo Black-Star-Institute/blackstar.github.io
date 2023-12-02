@@ -15,13 +15,13 @@ She has lived in:
 - Las Vegas, Nevada (multiple addresses 1994&ndash;2008, 2011&ndash;2016, 2004&ndash;2016)
 - Green Valley North, Henderson, Nevada (2014&ndash;2020)
 
-# Family
+# Genealogy
 
-Marica McDowell claims that Deborah is a descendent of [James Forrestal](forrestal_james.md), United States Secretary of Defense and purported [Majestic 12](../organisations/mj12.md) founding member.
+[Marica McDowell](mcdowell_marcia.md) claims that Deborah is a descendent of [James Forrestal](forrestal_james.md), United States Secretary of Defense and purported [Majestic 12](../organisations/mj12.md) founding member.
 
 ## Family tree
 
-DRAFT - Mottley link may be erroneous
+DRAFT - Huffman/Mottley link may be erroneous,
 
 ```mermaid
 graph TD;
