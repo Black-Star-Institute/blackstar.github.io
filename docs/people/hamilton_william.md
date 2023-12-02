@@ -26,6 +26,7 @@ A UFO research organisation.
 ```mermaid
 timeline
     1997 : Skywatch International conference
+    2004 : Retires from UFO research
     2005 : Project Aquarius - The Story of an Aquarian Scientist
          : Reverse Engineering and Alien Astronautics (3rd Annual UFO Crash Retrieval Conference)
 ```

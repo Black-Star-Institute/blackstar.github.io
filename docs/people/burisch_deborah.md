@@ -21,9 +21,25 @@ She has lived in:
 
 > His association with Majestic is real. His work is real. His estrangement from his parents is real, even though it has nothing to do with his work in BlackOps. His bankruptcy is real. His work at S-4 is real. His writing about extraterrestrial biology is real. His amazing skill as a microbiologist, starting when he was 8 years old, under the mentorship of the chief pathologist at Long Beach Memorial, is real. His B.A in Psychology is real. His school ring, proclaiming his degree in biology (that kind of ring is not authorized until after the degree is completed) is real. His *marriage to a highly placed member of Majestic* with *family ties running all the way back to Forrestal*, is real. His injuries after being beating by somebody trying to stop him working on the Lotus project was all to painfully real. His inability to handle money is real. His Ph.D degree from SUNY is real, and it was REALLY erased, because I have it on affidavit from a man who personally got confirmation of his degree back in 1996! The degree was received by Dan's parents and framed - REAL! They swore to that on affidavit. The Ph.D degree was REALLY taken away by his wife (supposedly for safe keeping due to stresses in the parental home). She tells how she did it in her own words in an audio letter. REAL! All Dan ever had after that, was a photocopy of his Ph.D on the wall, but even that disappeared before he was shipped to Mississippi.
 
+So far, the best guess I have is this:
+
+- Deborah's maternal grandfather [James H. Huffman](huffman_james.md) was a friend of Forrestal. [source?]
+- When her mother remarried, Deborah's father-in-law [Harry Burisch](burisch_harry.md) worked as a courier for Majestic 12. [source?]
+- Deborah became a member of Majestic 12 as a result of these family connections. [source?]
+
+# Taped statements
+
+Marcia McDowell claims [Hamilton page 237] in her [email of 10th August 2004](mcdowell_marcia/2004_ufo_magazine_email.txt) that Deborah recorded several statements:
+
+> Plus, there are *taped statements from Deborah Burisch*. The most revealing of which expressly tells how she removed his original Ph.D degree certificate from his wall. Anyone can listen to her tell what happened in her own words by going to the archives at the end of this letter. It's all on file. She also talks about the bankruptcy, with great arrogance, I might add.
+
 # Genealogy
 
 Debbie is the daughter of [Harry Burisch](burisch_harry.md). She may or may not have a pseudonym as [Deborah Kay Mottley](mottley_deborah.md).
+
+Was Harry Burisch involved in Majestic 12?
+
+Was James Huffman involved in Majestic 12?
 
 ## Family tree
 
@@ -31,8 +47,12 @@ This is the current best attempt at reconstructing the genealogy of Debbie Buris
 
 ```mermaid
 graph TD;
-  harry["Harry Ernest Burisch\n(1933&ndash;2000)"] --> deborah
-  mum[Mother unknown] --> deborah
+  grandad -. "m. 1941" .- grandma
+  grandma["Cathryn Lee Caldwell Huffman\n(1923&ndash;1978)"] --> mum
+  grandad["James Hafford Huffman\n(1917&ndash;1982)"] --> mum
+  harry["Harry Ernest Burisch\n(1933&ndash;2000)"] -- "???" --> deborah
+  dad[Herman Maxie Mottley, Jr.] --> deborah
+  mum[Doris Ann Huffman???] --> deborah
   deborah[Deborah Kay Burisch] -- "b.1988" --> tiffany[Tiffany Nicole Burisch]
   anon[Father unknown] --> tiffany
   dan[Danny B Crain] -. "m.1990" .- deborah
@@ -61,7 +81,7 @@ Casino worker 1990&ndash;2004. [Howe](https://www.earthfiles.com/2004/07/13/the-
 > Dan had told Bill Hamilton that his wife, Deborah, also worked with him in his classified government project, but she had a “cover job” in a Las Vegas casino.
 > How could these two people be filing Chapter 7 bankruptcy on July 16, 2002, and simultaneously be working for a classified U. S. government project?
 
-# Sources
+# References
 
 - Linda Moulton Howe, ["The Chapter 7 Bankruptcy of Dan and Deborah Burisch"](https://www.earthfiles.com/2004/07/13/the-chapter-7-bankruptcy-of-dan-and-deborah-burisch/), 2004-07-13
 
@@ -73,3 +93,4 @@ Casino worker 1990&ndash;2004. [Howe](https://www.earthfiles.com/2004/07/13/the-
 - [Marriage certificate](burisch_deborah/burisch_marriage_certificate_1990.jpg) Nevada State Health Division, Office of Vital Records. Nevada Marriage Index, 1966-2005. Carson City, Nevada: Nevada State Health Division, Office of Vital Records. [Book 724, Page C217874, Instrument number 95016](https://www.ancestry.com/discoveryui-content/view/7406902:1100)
 - [Deborah Kay Burisch in the Nevada, U.S., Marriage Index, 1956-2005](https://www.ancestry.co.uk/discoveryui-content/view/7406902:1100). Clark County, Nevada Marriage Bureau. Clark County, Nevada Marriage Index, 1956-1966.
 - There are many [yearbook photos](./deborah_burisch/) of Deborah Burisch available online.
+- [Dr Dan Burisch Information](https://godlike.com/forum1/message157012/pg1?regp=bm9fMTcwMTU0NzgxNw==) forum thread on Godlike Production by "Boomerang".
