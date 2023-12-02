@@ -2,13 +2,24 @@
 
 James Vincent Forrestal (1892&ndash;1949) was the  United States Secretary of Defense.
 
+# Timeline
+
+```mermaid
+timeline
+  1917 : Enlisted in the US Navy
+  1940 : Special assistant to President Roosevelt
+       : Under Secretary of the Navy
+  1944 : Secretary of the Navy 
+  1946 : Witnessed Bikini nuclear test
+```
+
+
+
 # Majestic Twelve
 
 Purported member of [MJ-12](../organisations/mj12.md).
 
-# Family
-
-## Family tree
+# Genealogy
 
 ```mermaid
 graph TD;
@@ -29,7 +40,9 @@ Forrestal reportedly committed suicide at Patient at Bethesda Naval Hospital. Th
 - Aerial Phenomena with Richard Dolan, [*The Suspicious Death of James Forrestal*](https://www.gaia.com/video/the-suspicious-death-of-james-forrestal)
 - David Martin *The Assassination of James Forrestal*, 2021
 
-# Sources
+# References
+
+- Naval History and Heritage Command [James V. Forrestal](https://www.history.navy.mil/browse-by-topic/people/sec-nav/forrestal/james-forrestal.html)
 
 ## Genealogy
 

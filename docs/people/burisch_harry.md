@@ -1,12 +1,16 @@
 # Harry Burisch
 
-Harry Ernest Burisch (11th April 1933&ndash;6th August 2000) AKA Harry Burisch Jr.
+Harry Ernest Burisch (11th April 1933&ndash;6th August 2000) was the father of [Deborah Burisch](burisch_deborah.md), [Dan Burisch's](burisch_dan.md) first wife.
 
-US Navy. Dates?
+Marcia McDowell stated [Hamilton page 226] in her [email of 10th August 2004](mcdowell_marcia/2004_ufo_magazine_email.txt) that Harry is the name of Deborah's father.
 
-Link to [James Forrestal](forrestal_james.md)?
+>Deborah Burisch, *Harry (her father)*, Doreen Crain (Dan´s mother) and John Crain (Dan´s father) were in the audience that day. Everybody stiffened up visibly. The big guys who had their hands crossed over their suit jackets and kept staring at Dan (security personnel) were poised on a knife-edge in case Dan said the wrong thing.
+
+"Family ties" to [James Forrestal](forrestal_james.md)? What does this mean?
 
 # Timeline
+
+US Navy. Dates?
 
 ```mermaid
 timeline
@@ -50,14 +54,15 @@ BURISCH, Harry Ernest; 67; Aurora IL>Las Vegas NV; Las Vegas Sun; 2000-8-10; neb
 
 # Genealogy
 
-Not confirmed family link to [Deborah Burisch](burisch_deborah.md).
+Harry is [Deborah Burisch](burisch_deborah.md)'s father.
 
 ```mermaid
 graph TD;
   harryc["Harry Cecil Burisch\n(1900&ndash;1993)"] --> harry
   mildred[Mildred Eunice Hopps] -- b. 1933 --> harry
   harry["Harry Ernest Burisch\n(1933&ndash;2000)"]
-  harry -. "m. 1955" -.-  nadine[Nadean Guthrie]
+  harry -. "m. 1955&ndash;1973" -.-  nadine[Nadean Guthrie]
+  harry --> debbie["Deborah Kay Burisch\n(1961&ndash;)"]
 
 ```
 

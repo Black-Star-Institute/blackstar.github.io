@@ -15,11 +15,15 @@ She has lived in:
 - Las Vegas, Nevada (multiple addresses 1994&ndash;2008, 2011&ndash;2016, 2004&ndash;2016)
 - Green Valley North, Henderson, Nevada (2014&ndash;2020)
 
+# Forrestal connection
+
+[Marica McDowell](mcdowell_marcia.md) claims that Deborah has "family ties" with [James Forrestal](forrestal_james.md), United States Secretary of Defense and purported [Majestic 12](../organisations/mj12.md) founding member. She stated [Hamilton page 224] in her [email of 10th August 2004](mcdowell_marcia/2004_ufo_magazine_email.txt) that [Deborah Burisch]() "a highly placed member of Majestic with family ties running all the way back to Forrestal."
+
+> His association with Majestic is real. His work is real. His estrangement from his parents is real, even though it has nothing to do with his work in BlackOps. His bankruptcy is real. His work at S-4 is real. His writing about extraterrestrial biology is real. His amazing skill as a microbiologist, starting when he was 8 years old, under the mentorship of the chief pathologist at Long Beach Memorial, is real. His B.A in Psychology is real. His school ring, proclaiming his degree in biology (that kind of ring is not authorized until after the degree is completed) is real. His *marriage to a highly placed member of Majestic* with *family ties running all the way back to Forrestal*, is real. His injuries after being beating by somebody trying to stop him working on the Lotus project was all to painfully real. His inability to handle money is real. His Ph.D degree from SUNY is real, and it was REALLY erased, because I have it on affidavit from a man who personally got confirmation of his degree back in 1996! The degree was received by Dan's parents and framed - REAL! They swore to that on affidavit. The Ph.D degree was REALLY taken away by his wife (supposedly for safe keeping due to stresses in the parental home). She tells how she did it in her own words in an audio letter. REAL! All Dan ever had after that, was a photocopy of his Ph.D on the wall, but even that disappeared before he was shipped to Mississippi.
+
 # Genealogy
 
-[Marica McDowell](mcdowell_marcia.md) claims that Deborah is a descendent of [James Forrestal](forrestal_james.md), United States Secretary of Defense and purported [Majestic 12](../organisations/mj12.md) founding member.
-
-Debbie may be the daughter of [Harry Burisch](burisch_harry.md) and may or may not have a pseudonym as [Deborah Kay Mottley](mottley_deborah.md).
+Debbie is the daughter of [Harry Burisch](burisch_harry.md). She may or may not have a pseudonym as [Deborah Kay Mottley](mottley_deborah.md).
 
 ## Family tree
 
@@ -27,7 +31,7 @@ This is the current best attempt at reconstructing the genealogy of Debbie Buris
 
 ```mermaid
 graph TD;
-  dad[Father unknown] --> deborah
+  harry["Harry Ernest Burisch\n(1933&ndash;2000)"] --> deborah
   mum[Mother unknown] --> deborah
   deborah[Deborah Kay Burisch] -- "b.1988" --> tiffany[Tiffany Nicole Burisch]
   anon[Father unknown] --> tiffany
