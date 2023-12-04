@@ -44,14 +44,6 @@ timeline
         2004 : Jun. 8th Retired from "black projects"
 ```
 
-## Timeline references
-
-These are sources for this timeline:
-
-- [Eagles Disobey timeline](https://web.archive.org/web/20020811102135/http://www.eaglesdisobey.com/timeline2.htm)
-- Linda Moulton Howe, *Earthfiles* [The Chapter 7 Bankruptcy of Dan and Deborah Burisch](https://www.earthfiles.com/2004/07/13/the-chapter-7-bankruptcy-of-dan-and-deborah-burisch/) 2004-07-13
-- [Bill Hamilton](hamilton_william.md) [Dr. Dan Burisch timeline](https://web.archive.org/web/20030804013141/www.skywatch-research.org/ufo/Dans_timeline.htm)
-
 # Genealogy
 
 ## Name change
@@ -237,3 +229,11 @@ Purported leaked medical report of "in vitro experimentation, ...Extraterrestria
 
 - [Godlike Productions](https://godlike.com/search.php?q=burisch) (formerly godlikeproductions.com) is a conspiracy forum.
   - Boomerang, [Dr Dan Burisch Information](https://godlike.com/forum1/message157012/pg1) 2005
+
+## Timeline
+
+These are sources for the chronology of Burisch's life and career:
+
+- [Eagles Disobey timeline](https://web.archive.org/web/20020811102135/http://www.eaglesdisobey.com/timeline2.htm)
+- Linda Moulton Howe, *Earthfiles* [The Chapter 7 Bankruptcy of Dan and Deborah Burisch](https://www.earthfiles.com/2004/07/13/the-chapter-7-bankruptcy-of-dan-and-deborah-burisch/) 2004-07-13
+- [Bill Hamilton](hamilton_william.md) [Dr. Dan Burisch timeline](https://web.archive.org/web/20030804013141/www.skywatch-research.org/ufo/Dans_timeline.htm)
