@@ -2,7 +2,7 @@
 
 > Why won't the aliens save us? We have to save ourselves. &mdash; Dan Burisch
 
-Dr. Danny "Dan" B. Catselas Burisch, formerly Danny B. Crain. [Born 1964-02-02](burisch_dan/burisch_birth_certificate.jpg). Purported whistleblower from Area 51 and claims to be a member of Majestic-12 (MJ-12.)
+Dr. Danny "Dan" B. Catselas Burisch, formerly Danny B. Crain. [Born 1964-02-02](burisch_dan/burisch_birth_certificate.jpg). Purported whistle blower from Area 51 and claims to be a member of Majestic-12 (MJ-12.)
 
 # Timeline
 
@@ -64,7 +64,7 @@ graph TD;
 
 He claims to have held the position of "MJ-9" (i.e. the 9th of twelve roles) in [Majestic Twelve](../organisations/mj12.md).
 
-According to [Marcia McDowell](https://projectcamelotportal.com/2008/01/04/dan-burisch-summary/):
+According to [Marcia McDowell](mcdowell_marcia.md) [[Camelot]](https://projectcamelotportal.com/2008/01/04/dan-burisch-summary/), Burisch was temporarily a key member of MJ-12:
 
 > Dr. Burisch was a Senior Operative/Scientist, responsible first to the Committee of the Majority and the Majestic 12 (1986-2003),
 > then only to the Majestic 12 (2003-2005), before it was adjourned (October 12, 2005).
@@ -147,6 +147,22 @@ received confirmation of his PhD). In that same year, SUNY was still acknowledgi
 
 When he was a child, he was abducted outside his family home and had his consciousness replaced/merged with that of the dead son of an MJ-12 member. Burisch's grandfather was an eyewitness to this event.
 
+# Area 51 claims
+
+## Secret clearances
+
+Knapp writes [Knapp 2005]:
+
+> Intriguingly, they have a sticker on their windshield that allows access to Nellis AFB.
+
+## Angels
+
+George Knapp writes: [Knapp 2005]
+
+> He also met angels in the lab and they spoke in Hebrew.
+
+What does this refer to?
+
 # Bankruptcy filing
 
 Linda Moulton Howe, *Earthfiles* [The Chapter 7 Bankruptcy of Dan and Deborah Burisch](https://www.earthfiles.com/2004/07/13/the-chapter-7-bankruptcy-of-dan-and-deborah-burisch/), 2004
@@ -212,6 +228,7 @@ Purported leaked medical report of "in vitro experimentation, ...Extraterrestria
 - Video: Garner [Burisch endorsement statements](https://web.archive.org/web/20140602091059/http://www.area51thetruth.com/endorsements.html)
 - Website: White Rabbit [Dr Dan Burisch](https://web.archive.org/web/20040608011637/http://scorpius.spaceports.com/~bemused/Burisch.html)
 - Video: Fringe Division, podcast episode 13, [Intro to the Dan Burisch & Project Looking Glass Information](https://rumble.com/v1uz88u-fringe-division-podcast-ep-13-intro-to-the-dan-burisch-and-project-looking-.html)
+- George Knapp, [Dr. Crain's UFO Claims Raise Questions](https://web.archive.org/web/20060316221612/http://www.klas-tv.com/Global/story.asp?S=4190378), *KLAS TV*, 5th December 2005.
 
 ## Interviews
 
@@ -228,7 +245,7 @@ Purported leaked medical report of "in vitro experimentation, ...Extraterrestria
 ## Forums
 
 - [Godlike Productions](https://godlike.com/search.php?q=burisch) (formerly godlikeproductions.com) is a conspiracy forum.
-  - Boomerang, [Dr Dan Burisch Information](https://godlike.com/forum1/message157012/pg1) 2005
+  - Boomerang, [Dr Dan Burisch Information](https://godlike.com/forum1/message157012/pg1) 2005
 
 ## Timeline
 

@@ -71,11 +71,23 @@ Was she involved in covering up Dan's records?
 some reason to believe that she was a "plant" so that the powers that be might
 better keep an eye on his private life
 
+George Knapp writes [Knapp 2005]:
+
+> Who believes this stuff? His wife Deborah for one. She signed a sworn statement saying she too works for MJ-12, the secret government.
+>
+> ...
+>
+> There are photos of Burisch and his wife in military garb saluting each other. 
+
 # Cover job
 
 According to [Linda Moulton Howe](https://www.earthfiles.com/2004/07/13/the-chapter-7-bankruptcy-of-dan-and-deborah-burisch/)'s investigation:
 
 > Bill Hamilton also understood that Deborah Burisch worked for the U. S. government as Dan’s government “handler,” a person assigned to monitor Burisch’s microbiology work, while maintaining her “cover job” as PBX Operator at the Mirage casino.
+
+Knapp writes [Knapp 2005]:
+
+> He met his wife as a parole officer. She was there on drug charges. She's spent 12 years in the PBX department of the Mirage, but that's just a cover job. 
 
 Casino worker 1990&ndash;2004. [Howe](https://www.earthfiles.com/2004/07/13/the-chapter-7-bankruptcy-of-dan-and-deborah-burisch/)
 
@@ -97,3 +109,4 @@ Casino worker 1990&ndash;2004. [Howe](https://www.earthfiles.com/2004/07/13/the-
 - [Deborah Kay Burisch in the Nevada, U.S., Marriage Index, 1956-2005](https://www.ancestry.co.uk/discoveryui-content/view/7406902:1100). Clark County, Nevada Marriage Bureau. Clark County, Nevada Marriage Index, 1956-1966.
 - There are many [yearbook photos](./deborah_burisch/) of Deborah Burisch available online.
 - [Dr Dan Burisch Information](https://godlike.com/forum1/message157012/pg1?regp=bm9fMTcwMTU0NzgxNw==) forum thread on Godlike Production by "Boomerang".
+- George Knapp, [Dr. Crain's UFO Claims Raise Questions](https://web.archive.org/web/20060316221612/http://www.klas-tv.com/Global/story.asp?S=4190378), *KLAS TV*, 5th December 2005.
