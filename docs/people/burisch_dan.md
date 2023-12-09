@@ -229,6 +229,7 @@ Purported leaked medical report of "in vitro experimentation, ...Extraterrestria
 - Website: White Rabbit [Dr Dan Burisch](https://web.archive.org/web/20040608011637/http://scorpius.spaceports.com/~bemused/Burisch.html)
 - Video: Fringe Division, podcast episode 13, [Intro to the Dan Burisch & Project Looking Glass Information](https://rumble.com/v1uz88u-fringe-division-podcast-ep-13-intro-to-the-dan-burisch-and-project-looking-.html)
 - George Knapp, [Dr. Crain's UFO Claims Raise Questions](https://web.archive.org/web/20060316221612/http://www.klas-tv.com/Global/story.asp?S=4190378), *KLAS TV*, 5th December 2005.
+- Danny B. Crain, *Who's Who in Science and Engineering*. Second edition, 1994-1995. New Providence, NJ: Marquis Who's Who, 1994. (WhoScEn 2) [Gale Research Company. Biography and Genealogy Master Index. Detroit, MI, USA: Gale Research Company, 2008.]
 
 ## Interviews
 
