@@ -10,10 +10,11 @@ Coincidences:
 
 * Same birth date
 * Same first and middle name
+* Same mother, [Doris Ann Huffman](huffman_doris.md)
 
 Differences:
 
-* Contradictory yearbook photos (straight versus curly hair, etc.)
+* Contradictory yearbook photos (straight versus curly hair, etc.) This might be a different person, "Debbie Mottley" and not "Deborah Kay Mottley"?
   * DKM Appomattox High School, Virginia. (1975&ndash;1977)
   * DKB Las Vegas High School, Las Vegas, Nevada. (1977&ndash;1980)
 

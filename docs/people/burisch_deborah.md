@@ -27,6 +27,10 @@ So far, the best guess I have is this:
 - When her mother remarried, Deborah's father-in-law [Harry Burisch](burisch_harry.md) worked as a courier for Majestic 12. [source?] The problem with this is that I can't find a record of Doris having the surname Burisch before 1982. Did Harry have enough time to befriend James Huffman before he died in 1982?
 - Deborah became a member of Majestic 12 as a result of these family connections. [source?]
 
+Alternatively:
+
+* Her step-father [Harry Burisch](burisch_harry.md) befriended Forrestal while in the Navy, except Forrestal was already dead when the Korean War broke out in 1950.
+
 # Taped statements
 
 Marcia McDowell claims [Hamilton page 237] in her [email of 10th August 2004](mcdowell_marcia/2004_ufo_magazine_email.txt) that Deborah recorded several statements:
@@ -37,7 +41,7 @@ There were uploaded to the internet in c. 2004 but haven't yet been found (they 
 
 # Genealogy
 
-Debbie is the step-daughter daughter of [Harry Burisch](burisch_harry.md). Her mother seems to be [Doris Ann Huffman](huffman_doris.md), although this is not clear. She may or may not have a pseudonym as [Deborah Kay Mottley](mottley_deborah.md).
+Debbie is the step-daughter daughter of [Harry Burisch](burisch_harry.md), who's obituary describes "his wife, *Doris Ann*; one daughter, Deborah Kay Burisch."  Her mother seems to be [Doris Ann Huffman](huffman_doris.md), although this is not clear. She may or may not have a pseudonym as [Deborah Kay Mottley](mottley_deborah.md).
 
 Was Harry Burisch involved in Majestic 12?
 

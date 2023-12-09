@@ -1,16 +1,22 @@
 # James Forrestal
 
-James Vincent Forrestal (1892&ndash;1949) was the  United States Secretary of Defense.
+James Vincent Forrestal (1892&ndash;1949) was the United States Secretary of Defense.
 
 # Timeline
 
 ```mermaid
 timeline
   1917 : Enlisted in the US Navy
+  1918 : Banking career
+  1926 : Marries Josephine
+  1938 : President of New York investment firm
   1940 : Special assistant to President Roosevelt
        : Under Secretary of the Navy
   1944 : Secretary of the Navy 
   1946 : Witnessed Bikini nuclear test
+  1947 : Secretary of Defence
+  1949 : Resigned
+       : Death
 ```
 
 
