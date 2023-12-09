@@ -24,12 +24,13 @@ She has lived in:
 So far, the best guess I have is this:
 
 - Deborah's maternal grandfather [James H. Huffman](huffman_james.md) was a friend of Forrestal. [source?]
-- When her mother remarried, Deborah's father-in-law [Harry Burisch](burisch_harry.md) worked as a courier for Majestic 12. [source?] The problem with this is that I can't find a record of Doris having the surname Burisch before 1982. Did Harry have enough time to befriend James Huffman before he died in 1982?
+  - Huffman would have been in his 20s when Forrestal was in power.
+
+- When her mother remarried in 1982, Deborah's father-in-law [Harry Burisch](burisch_harry.md) was a US Navy veteran and allegedly worked as a courier for Majestic 12. [source?]
+  - The problem with this is that I can't find a record of Doris having the surname Burisch before 1982.
+  - Did Harry have enough time to befriend James Huffman before he died in 1982?
+
 - Deborah became a member of Majestic 12 as a result of these family connections. [source?]
-
-Alternatively:
-
-* Her step-father [Harry Burisch](burisch_harry.md) befriended Forrestal while in the Navy, except Forrestal was already dead when the Korean War broke out in 1950.
 
 # Taped statements
 
