@@ -2,6 +2,10 @@
 
 John M. "Mike" McConnell was the US Director of National Intelligence in January 2007. [Burisch](burisch_dan.md) claims he was the leader of [Majestic 12 ](../organisations/mj12.md) at the time, holding the position of "MJ-1".
 
+According to his [Wikipedia page](https://en.wikipedia.org/wiki/Mike_McConnell_(U.S._Naval_officer)):
+
+> During his naval career he served as Director of the National Security Agency from 1992 to 1996. His civilian career includes serving as the United States Director of National Intelligence from 20 February 2007 to 27 January 2009 during the Bush administration and first week of the Obama administration. He is currently Vice Chairman at Booz Allen Hamilton. 
+
 Linked to the Gulf War:
 
 > Mr. McConnell first operated in the highest circles of government in the tumultuous time that included the *Persian Gulf war of 1991* and the fall of the Soviet Union.
