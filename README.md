@@ -1,6 +1,6 @@
 # Black Star Institute
 
-This repository contains research notes regarding the UFO phenomenon and the purported cover up.
+This repository contains research notes regarding the UFO phenomenon and the purported cover up, focussing on the [Dan Crain (Burisch)](./docs/people/burisch_dan.md) testimony.
 
 To get started, browse the [docs](./docs/) folder.
 
