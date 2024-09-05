@@ -20,6 +20,7 @@ A UFO research organisation.
 - Video: [Bill Hamilton - UFOs and Government investigations](https://www.youtube.com/watch?v=KNF61xAuzO8) c.1999
 - NOUFORS [Bill Hamilton profile](http://noufors.com/Bill_Hamilton.htm)
 - [AstroSciences research network](https://web.archive.org/web/20051031195254/https://www.astrosciences.info/) c.2005
+- [Bill Hamilton](https://files.afu.se/Downloads/Websites/www.ufomind.com/html/people/h/hamilton/index.html) on aliensonearth.com, archived by the [Archives for the Unexplained](https://www.afu.se/)
 
 # Timeline
 
