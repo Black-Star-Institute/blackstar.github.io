@@ -4,7 +4,11 @@
 
 Dr. Danniel "Danny" Benjamin Catselas Burisch, formerly Danny Benjamin Crain. [Born 1964-02-02](burisch_dan/burisch_birth_certificate.jpg). Purported whistle blower from Area 51 and claims to be a member of [Majestic-12](../organisations/mj12.md) (MJ-12.)
 
+For an introduction to the Burisch testimony, the best places to start are probably Brian Jackson's audio essays on his [Burisch Archive](https://www.burischarchive.com/my-research) and Bill Hamilton's book [_Project Aquarius: The Story of an Aquarian Scientist_](https://www.amazon.com/Project-Aquarius-Story-Aquarian-Scientist/dp/1420876562).
+
 # Timeline
+
+Please see [Brian Jackon](https://www.burischarchive.com/my-background)'s [Burisch Timeline](https://www.burischarchive.com/timeline) for an authoritative chronicle of the major events of Burisch's life.
 
 This timeline shows the key events in Burisch's life and career.
 
@@ -230,6 +234,7 @@ Purported leaked medical report of "in vitro experimentation, ...Extraterrestria
 - Video: Fringe Division, podcast episode 13, [Intro to the Dan Burisch & Project Looking Glass Information](https://rumble.com/v1uz88u-fringe-division-podcast-ep-13-intro-to-the-dan-burisch-and-project-looking-.html)
 - George Knapp, [Dr. Crain's UFO Claims Raise Questions](https://web.archive.org/web/20060316221612/http://www.klas-tv.com/Global/story.asp?S=4190378), *KLAS TV*, 5th December 2005.
 - Danny B. Crain, *Who's Who in Science and Engineering*. Second edition, 1994-1995. New Providence, NJ: Marquis Who's Who, 1994. (WhoScEn 2) [Gale Research Company. Biography and Genealogy Master Index. Detroit, MI, USA: Gale Research Company, 2008.]
+- Brian Jackson, [Burisch Archive](https://www.burischarchive.com/my-research)
 
 ## Interviews
 
@@ -255,3 +260,4 @@ These are sources for the chronology of Burisch's life and career:
 - [Eagles Disobey timeline](https://web.archive.org/web/20020811102135/http://www.eaglesdisobey.com/timeline2.htm)
 - Linda Moulton Howe, *Earthfiles* [The Chapter 7 Bankruptcy of Dan and Deborah Burisch](https://www.earthfiles.com/2004/07/13/the-chapter-7-bankruptcy-of-dan-and-deborah-burisch/) 2004-07-13
 - [Bill Hamilton](hamilton_william.md) [Dr. Dan Burisch timeline](https://web.archive.org/web/20030804013141/www.skywatch-research.org/ufo/Dans_timeline.htm)
+- Brian Jackson, [The Essential Burisch Timeline](https://www.burischarchive.com/timeline), 2025
